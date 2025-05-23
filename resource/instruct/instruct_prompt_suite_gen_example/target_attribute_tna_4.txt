@@ -1,0 +1,26 @@
+1. Case1:
+   - **Input:**
+     - Scene: Bedroom
+     - Target: Headphones
+   - **Output:**
+     ```
+     In a bedroom, a pair of red headphones sits on the desk. Suddenly, the headphones change from red to green. Then, the headphones change from green to white. Finally, the headphones change from white to yellow.
+     ```
+
+2. Case2:
+   - **Input:**
+     - Scene: Living Room
+     - Target: Cup
+   - **Output:**
+     ```
+     In a living room, a wooden staircase is shown. Gradually, the wooden staircase transforms into marble. Then, the marble stairs change to glass. Finally, the glass stairs revert to the original wooden stairs.
+     ```
+
+3. Case3:
+   - **Input:**
+     - Scene: Track Field
+     - Target: Running Track
+   - **Output:**
+     ```
+     On a track field, the running track is initially bright red. Suddenly, the track's color changes from red to blue. Then, the blue track transitions to green. Finally, the track's color changes from green to white.
+     ```

@@ -1,0 +1,21 @@
+1. **Case 1:**
+    - **Input:**
+        - Scene: Country Road
+        - Target: Shrubbery
+        - TNA count: 1
+        - Reason for TNA change: Scene attribute changes
+    - **Output:**
+        ```
+        At a sunny noon, the country road is at the center of the scene, flanked by dense shrubbery.
+        ```
+
+2. **Case 2:**
+    - **Input:**
+        - Scene: Bedroom
+        - Target: Teddy Bear
+        - TNA count: 1
+        - Reason for TNA change: Scene attribute changes
+    - **Output:**
+        ```
+        In a clean, bright bedroom, a double bed is arranged on one side.
+        ```

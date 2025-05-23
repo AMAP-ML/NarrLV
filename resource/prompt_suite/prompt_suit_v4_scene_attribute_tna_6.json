@@ -1,0 +1,1476 @@
+{
+    "15": [
+        {
+            "prompt_gen": "In a bustling futuristic cityscape, neon lights flash across towering skyscrapers, casting vibrant hues onto the streets below. Suddenly, a thick fog rolls in, muting the bright colors and shrouding the scene in mist. Then, the fog clears, revealing a clear night sky dotted with stars, making the entire city appear more serene. Shortly after, an unexpected electrical blackout plunges the city into darkness, creating an eerie atmosphere. The power is restored, but the neon lights now flicker erratically, causing a chaotic visual effect. Finally, dawn breaks, and the first light of day washes over the city, reinstating calm and clarity.",
+            "prompt_gen_list_extract": [
+                "In a bustling futuristic cityscape, neon lights flash across towering skyscrapers, casting vibrant hues onto the streets below.",
+                "A thick fog rolls in, muting the bright colors and shrouding the scene in mist.",
+                "The fog clears, revealing a clear night sky dotted with stars, making the entire city appear more serene.",
+                "An unexpected electrical blackout plunges the city into darkness, creating an eerie atmosphere.",
+                "The power is restored, but the neon lights now flicker erratically, causing a chaotic visual effect.",
+                "Dawn breaks, and the first light of day washes over the city, reinstating calm and clarity."
+            ],
+            "element_extract": {
+                "Scene Type": "bustling futuristic cityscape",
+                "Main Target Category": [
+                    "neon lights",
+                    "towering skyscrapers"
+                ],
+                "Initial Scene Attributes": "vibrant hues",
+                "Main Target Layout": "Neon lights flash across towering skyscrapers, casting vibrant hues onto the streets below.",
+                "Scene Attribute Evolution": [
+                    "vibrant hues",
+                    "thick fog muting colors and shrouding the scene",
+                    "clear night sky with stars",
+                    "eerie darkness due to electrical blackout",
+                    "erratic neon lights",
+                    "first light of day reinstating calm and clarity"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a bustling futuristic cityscape?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature neon lights?",
+                    "Does the scene feature towering skyscrapers?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by vibrant hues?"
+                ],
+                "Main Target Layout": [
+                    "Do neon lights flash across towering skyscrapers, casting vibrant hues onto the streets below?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that exhibit vibrant hues?",
+                    "Does the video contain any segments where thick fog mutes colors and shrouds the scene?",
+                    "Does the video contain any segments showing a clear night sky with stars?",
+                    "Does the video contain any segments of eerie darkness due to an electrical blackout?",
+                    "Does the video contain any segments with erratic neon lights?",
+                    "Does the video contain any segments where the first light of day reinstates calm and clarity?"
+                ],
+                "Scene Attribute Evolution_1": [
+                    "Does the scene transition from vibrant hues to thick fog muting colors and shrouding the scene over time? To judge this question, it must first be determined that the scene exhibits vibrant hues at a certain time and subsequently exhibits thick fog muting colors and shrouding the scene, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from thick fog muting colors and shrouding the scene to a clear night sky with stars over time? To judge this question, it must first be determined that the scene exhibits thick fog muting colors and shrouding the scene at a certain time and subsequently exhibits a clear night sky with stars, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from a clear night sky with stars to eerie darkness due to an electrical blackout over time? To judge this question, it must first be determined that the scene exhibits a clear night sky with stars at a certain time and subsequently exhibits eerie darkness due to an electrical blackout, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from eerie darkness due to an electrical blackout to erratic neon lights over time? To judge this question, it must first be determined that the scene exhibits eerie darkness due to an electrical blackout at a certain time and subsequently exhibits erratic neon lights, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from erratic neon lights to the first light of day reinstating calm and clarity over time? To judge this question, it must first be determined that the scene exhibits erratic neon lights at a certain time and subsequently exhibits the first light of day reinstating calm and clarity, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the bustling futuristic cityscape scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the neon lights undergo abnormal deformation over time?",
+                    "Do the towering skyscrapers undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "```\nIn a professional gaming arena, large screens surround the area, showcasing bright and colorful game visuals. Suddenly, the screens dim, displaying a dark environment with shadows. Then, the visuals change to a vibrant, fiery theme, with flames flickering across the arena. Shortly after, the scene switches to a cool, icy blue display, creating a chill atmosphere. Next, the screens transition to a futuristic, neon-lit theme full of bright hues and digital patterns. Finally, the visuals change to a serene, green forest theme, enveloping the arena in a tranquil ambiance.\n```",
+            "prompt_gen_list_extract": [
+                "In a professional gaming arena, large screens surround the area, showcasing bright and colorful game visuals.",
+                "The screens dim, displaying a dark environment with shadows.",
+                "The visuals change to a vibrant, fiery theme, with flames flickering across the arena.",
+                "The scene switches to a cool, icy blue display, creating a chill atmosphere.",
+                "The screens transition to a futuristic, neon-lit theme full of bright hues and digital patterns.",
+                "The visuals change to a serene, green forest theme, enveloping the arena in a tranquil ambiance."
+            ],
+            "element_extract": {
+                "Scene Type": "professional gaming arena",
+                "Main Target Category": [
+                    "large screens"
+                ],
+                "Initial Scene Attributes": "bright and colorful game visuals",
+                "Main Target Layout": "large screens surround the area",
+                "Scene Attribute Evolution": [
+                    "bright and colorful game visuals",
+                    "dark environment with shadows",
+                    "vibrant, fiery theme with flames flickering",
+                    "cool, icy blue display creating a chill atmosphere",
+                    "futuristic, neon-lit theme with bright hues and digital patterns",
+                    "serene, green forest theme enveloping the arena"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a professional gaming arena?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature large screens?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by bright and colorful game visuals?"
+                ],
+                "Main Target Layout": [
+                    "Are large screens surrounding the area?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments showing bright and colorful game visuals?",
+                    "Does the video contain any segments with a dark environment with shadows?",
+                    "Does the video contain any segments with a vibrant, fiery theme with flames flickering?",
+                    "Does the video contain any segments with a cool, icy blue display creating a chill atmosphere?",
+                    "Does the video contain any segments with a futuristic, neon-lit theme with bright hues and digital patterns?",
+                    "Does the video contain any segments with a serene, green forest theme enveloping the arena?"
+                ],
+                "Scene Attribute Evolution_1": [
+                    "Does the scene transition from bright and colorful game visuals to a dark environment with shadows over time? To judge this question, it must first be determined that the scene has bright and colorful game visuals at a certain time and subsequently exhibits a dark environment with shadows, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from a dark environment with shadows to a vibrant, fiery theme with flames flickering over time? To judge this question, it must first be determined that the scene exhibits a dark environment with shadows at a certain time and subsequently exhibits a vibrant, fiery theme with flames flickering, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from a vibrant, fiery theme with flames flickering to a cool, icy blue display creating a chill atmosphere over time? To judge this question, it must first be determined that the scene exhibits a vibrant, fiery theme with flames flickering at a certain time and subsequently exhibits a cool, icy blue display creating a chill atmosphere, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from a cool, icy blue display creating a chill atmosphere to a futuristic, neon-lit theme with bright hues and digital patterns over time? To judge this question, it must first be determined that the scene exhibits a cool, icy blue display creating a chill atmosphere at a certain time and subsequently exhibits a futuristic, neon-lit theme with bright hues and digital patterns, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from a futuristic, neon-lit theme with bright hues and digital patterns to a serene, green forest theme enveloping the arena over time? To judge this question, it must first be determined that the scene exhibits a futuristic, neon-lit theme with bright hues and digital patterns at a certain time and subsequently exhibits a serene, green forest theme enveloping the arena, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the professional gaming arena scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the large screens undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "5": [
+        {
+            "prompt_gen": "In a luxurious living room, white curtains elegantly hang beside large floor-to-ceiling windows, filling the entire space with bright natural light. Suddenly, the sky outside darkens as gray clouds gather, and the light in the room dims. Then, rain begins to pour outside, with raindrops pounding against the windows. Next, lightning flashes, briefly and intensely illuminating the entire room. As the storm passes, the rain stops, and the sky begins to clear, with soft evening light streaming back into the room. Finally, the morning sun rises, casting warm and gentle rays through the white curtains, brilliantly brightening the room once again.",
+            "prompt_gen_list_extract": [
+                "In a luxurious living room, white curtains elegantly hang beside large floor-to-ceiling windows, filling the entire space with bright natural light.",
+                "Suddenly, the sky outside darkens as gray clouds gather, and the light in the room dims.",
+                "Rain begins to pour outside, with raindrops pounding against the windows.",
+                "Lightning flashes, briefly and intensely illuminating the entire room.",
+                "As the storm passes, the rain stops, and the sky begins to clear, with soft evening light streaming back into the room.",
+                "The morning sun rises, casting warm and gentle rays through the white curtains, brilliantly brightening the room once again."
+            ],
+            "element_extract": {
+                "Scene Type": "luxurious living room",
+                "Main Target Category": [
+                    "white curtains",
+                    "large floor-to-ceiling windows"
+                ],
+                "Initial Scene Attributes": "bright natural light",
+                "Main Target Layout": "white curtains elegantly hang beside large floor-to-ceiling windows.",
+                "Scene Attribute Evolution": [
+                    "bright natural light",
+                    "room dims as gray clouds gather",
+                    "raindrops pounding against the windows",
+                    "lightning flashes illuminating the room",
+                    "soft evening light streaming in as rain stops",
+                    "morning sun casting warm bright rays"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a luxurious living room?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature white curtains?",
+                    "Does the scene feature large floor-to-ceiling windows?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by bright natural light?"
+                ],
+                "Main Target Layout": [
+                    "Are the white curtains elegantly hanging beside large floor-to-ceiling windows?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that have bright natural light?",
+                    "Does the video contain any segments where the room dims as gray clouds gather?",
+                    "Does the video contain any segments with raindrops pounding against the windows?",
+                    "Does the video contain any segments where lightning flashes illuminate the room?",
+                    "Does the video contain any segments with soft evening light streaming in as the rain stops?",
+                    "Does the video contain any segments where the morning sun casts warm bright rays?"
+                ],
+                "Scene Attribute Evolution_1": [
+                    "Does the scene transition from bright natural light to the room dimming due to gray clouds gathering over time? To judge this question, it must first be determined that the scene exhibits bright natural light at a certain time and subsequently the room dims due to gray clouds gathering, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from the room dimming due to gray clouds gathering to raindrops pounding against the windows over time? To judge this question, it must first be determined that the scene exhibits the room dimming due to gray clouds gathering at a certain time and subsequently raindrops pounding against the windows, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from raindrops pounding against the windows to lightning flashes illuminating the room over time? To judge this question, it must first be determined that the scene exhibits raindrops pounding against the windows at a certain time and subsequently lightning flashes illuminate the room, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from lightning flashes illuminating the room to soft evening light streaming in as the rain stops over time? To judge this question, it must first be determined that the scene exhibits lightning flashes illuminating the room at a certain time and subsequently soft evening light streams in as the rain stops, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from soft evening light streaming in as the rain stops to the morning sun casting warm bright rays over time? To judge this question, it must first be determined that the scene exhibits soft evening light streaming in as the rain stops at a certain time and subsequently the morning sun casting warm bright rays, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the luxurious living room scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the white curtains undergo abnormal deformation over time?",
+                    "Do the large floor-to-ceiling windows undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "9": [
+        {
+            "prompt_gen": "Under the bright midday sun, a school campus unfolds in the frame, with a prominent teaching building standing at its center, casting clear shadows on the pavement. Suddenly, dark clouds gather, and heavy rain begins to pour, soaking the entire scene. Then, the rain transforms into gentle snow, covering the ground and buildings with a thin layer of white. Before long, as the sun re-emerges, the snow begins to melt, leaving the ground damp and clear. Gradually, the scene shifts to the glow of dusk, casting long shadows and bathing everything in a warm orange light. Finally, night falls, and the bright moonlight illuminates the entire scene.",
+            "prompt_gen_list_extract": [
+                "Under the bright midday sun, a school campus unfolds in the frame, with a prominent teaching building standing at its center, casting clear shadows on the pavement.",
+                "Suddenly, dark clouds gather, and heavy rain begins to pour, soaking the entire scene.",
+                "The rain transforms into gentle snow, covering the ground and buildings with a thin layer of white.",
+                "As the sun re-emerges, the snow begins to melt, leaving the ground damp and clear.",
+                "Gradually, the scene shifts to the glow of dusk, casting long shadows and bathing everything in a warm orange light.",
+                "Finally, night falls, and the bright moonlight illuminates the entire scene."
+            ],
+            "element_extract": {
+                "Scene Type": "school campus",
+                "Main Target Category": [
+                    "prominent teaching building"
+                ],
+                "Initial Scene Attributes": "bright midday sun",
+                "Main Target Layout": "a prominent teaching building stands at the center, casting clear shadows on the pavement.",
+                "Scene Attribute Evolution": [
+                    "bright midday sun",
+                    "dark clouds gather and heavy rain pours",
+                    "rain transforms into gentle snow covering ground and buildings",
+                    "sun re-emerges and snow melts, leaving ground damp and clear",
+                    "glow of dusk with long shadows and warm orange light",
+                    "night falls and bright moonlight illuminates the scene"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place on a school campus?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a prominent teaching building?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by bright midday sun?"
+                ],
+                "Main Target Layout": [
+                    "Is the prominent teaching building positioned at the center, casting clear shadows on the pavement?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments with bright midday sun?",
+                    "Does the video contain any segments where dark clouds gather and heavy rain pours?",
+                    "Does the video contain any segments where rain transforms into gentle snow covering the ground and buildings?",
+                    "Does the video contain any segments where the sun re-emerges and snow melts, leaving the ground damp and clear?",
+                    "Does the video contain any segments showing the glow of dusk with long shadows and warm orange light?",
+                    "Does the video contain any segments where night falls and bright moonlight illuminates the scene?"
+                ],
+                "Scene Attribute Evolution_1": [
+                    "Does the scene transition from bright midday sun to dark clouds gathering and heavy rain pouring over time? To judge this question, it must first be determined that the scene exhibits bright midday sun at a certain time and subsequently exhibits dark clouds gathering and heavy rain pouring, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from dark clouds gathering and heavy rain pouring to rain transforming into gentle snow covering the ground and buildings over time? To judge this question, it must first be determined that the scene exhibits dark clouds gathering and heavy rain pouring at a certain time and subsequently exhibits rain transforming into gentle snow covering the ground and buildings, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from rain transforming into gentle snow covering the ground and buildings to the sun re-emerging and snow melting, leaving the ground damp and clear over time? To judge this question, it must first be determined that the scene exhibits rain transforming into gentle snow covering the ground and buildings at a certain time and subsequently exhibits the sun re-emerging and snow melting, leaving the ground damp and clear, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from the sun re-emerging and snow melting, leaving the ground damp and clear to the glow of dusk with long shadows and warm orange light over time? To judge this question, it must first be determined that the scene exhibits the sun re-emerging and snow melting, leaving the ground damp and clear at a certain time and subsequently exhibits the glow of dusk with long shadows and warm orange light, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from the glow of dusk with long shadows and warm orange light to night falling and bright moonlight illuminating the scene over time? To judge this question, it must first be determined that the scene exhibits the glow of dusk with long shadows and warm orange light at a certain time and subsequently exhibits night falling and bright moonlight illuminating the scene, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the school campus scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the prominent teaching building undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "12": [
+        {
+            "prompt_gen": "In a grand classical architecture courtyard, tall columns surround the space, with an exquisite statue placed at the center, and bright sunlight fills the entire area. Suddenly, the weather changes rapidly as a heavy rain begins to pour, making the scene damp. Then, the rain turns into gentle snowflakes, covering the courtyard with a layer of white. After the snow stops, it starts to melt, revealing the stone statue and the courtyard floor beneath. The scene then transitions to a golden sunset, casting long shadows across the courtyard. Finally, night falls, and the statue is softly illuminated by the light of torches.",
+            "prompt_gen_list_extract": [
+                "In a grand classical architecture courtyard, tall columns surround the space, with an exquisite statue placed at the center, and bright sunlight fills the entire area.",
+                "Suddenly, the weather changes rapidly as a heavy rain begins to pour, making the scene damp.",
+                "The rain turns into gentle snowflakes, covering the courtyard with a layer of white.",
+                "After the snow stops, it starts to melt, revealing the stone statue and the courtyard floor beneath.",
+                "The scene then transitions to a golden sunset, casting long shadows across the courtyard.",
+                "Finally, night falls, and the statue is softly illuminated by the light of torches."
+            ],
+            "element_extract": {
+                "Scene Type": "grand classical architecture courtyard",
+                "Main Target Category": [
+                    "tall columns",
+                    "exquisite statue"
+                ],
+                "Initial Scene Attributes": "bright sunlight",
+                "Main Target Layout": "Tall columns surround the space, with an exquisite statue placed at the center.",
+                "Scene Attribute Evolution": [
+                    "bright sunlight",
+                    "heavy rain making the scene damp",
+                    "gentle snowflakes covering the courtyard with white",
+                    "snow melting revealing the statue and courtyard floor",
+                    "golden sunset casting long shadows",
+                    "night with statue illuminated by torches"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a grand classical architecture courtyard?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature tall columns?",
+                    "Does the scene feature an exquisite statue?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by bright sunlight?"
+                ],
+                "Main Target Layout": [
+                    "Are the tall columns surrounding the space, with an exquisite statue placed at the center?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments with bright sunlight?",
+                    "Does the video contain any segments with heavy rain making the scene damp?",
+                    "Does the video contain any segments with gentle snowflakes covering the courtyard with white?",
+                    "Does the video contain any segments with snow melting revealing the statue and courtyard floor?",
+                    "Does the video contain any segments with a golden sunset casting long shadows?",
+                    "Does the video contain any segments with the statue illuminated by torches at night?"
+                ],
+                "Scene Attribute Evolution_1": [
+                    "Does the scene transition from bright sunlight to heavy rain making the scene damp over time? To judge this question, it must first be determined that the scene exhibits bright sunlight at a certain time and subsequently exhibits heavy rain making the scene damp, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from heavy rain making the scene damp to gentle snowflakes covering the courtyard with white over time? To judge this question, it must first be determined that the scene exhibits heavy rain making the scene damp at a certain time and subsequently exhibits gentle snowflakes covering the courtyard with white, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from gentle snowflakes covering the courtyard with white to snow melting revealing the statue and courtyard floor over time? To judge this question, it must first be determined that the scene exhibits gentle snowflakes covering the courtyard with white at a certain time and subsequently exhibits snow melting revealing the statue and courtyard floor, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from snow melting revealing the statue and courtyard floor to a golden sunset casting long shadows over time? To judge this question, it must first be determined that the scene exhibits snow melting revealing the statue and courtyard floor at a certain time and subsequently exhibits a golden sunset casting long shadows, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from a golden sunset casting long shadows to night with the statue illuminated by torches over time? To judge this question, it must first be determined that the scene exhibits a golden sunset casting long shadows at a certain time and subsequently exhibits night with the statue illuminated by torches, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the grand classical architecture courtyard scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the tall columns undergo abnormal deformation over time?",
+                    "Does the exquisite statue undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "In the magnificent courtyard of an ancient historical building, a grand statue stands tall in the center, shining under the bright midday sun. Gradually, dark clouds gather, casting shadows over the scene. Then, raindrops begin to fall, making the statue appear sleek under the heavy downpour. After the rain stops, a rainbow arcs overhead. As evening approaches, the sky turns a deep orange. Finally, night falls, and the statue is illuminated by the soft glow of the moonlight.",
+            "prompt_gen_list_extract": [
+                "In the magnificent courtyard of an ancient historical building, a grand statue stands tall in the center, shining under the bright midday sun.",
+                "Gradually, dark clouds gather, casting shadows over the scene.",
+                "Raindrops begin to fall, making the statue appear sleek under the heavy downpour.",
+                "After the rain stops, a rainbow arcs overhead.",
+                "As evening approaches, the sky turns a deep orange.",
+                "Finally, night falls, and the statue is illuminated by the soft glow of the moonlight."
+            ],
+            "element_extract": {
+                "Scene Type": "ancient historical building courtyard",
+                "Main Target Category": [
+                    "grand statue"
+                ],
+                "Initial Scene Attributes": "bright midday sun",
+                "Main Target Layout": "The grand statue stands tall in the center, shining under the bright midday sun.",
+                "Scene Attribute Evolution": [
+                    "bright midday sun",
+                    "dark clouds gathering casting shadows",
+                    "heavy downpour making the statue appear sleek",
+                    "rain stopped with a rainbow overhead",
+                    "deep orange sky in the evening",
+                    "nighttime illuminated by moonlight"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in an ancient historical building courtyard?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a grand statue?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by a bright midday sun?"
+                ],
+                "Main Target Layout": [
+                    "Does the grand statue stand tall in the center, shining under the bright midday sun?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments with a bright midday sun?",
+                    "Does the video contain any segments where dark clouds gather, casting shadows?",
+                    "Does the video contain any segments with a heavy downpour making the statue appear sleek?",
+                    "Does the video contain any segments where the rain stopped with a rainbow overhead?",
+                    "Does the video contain any segments with a deep orange sky in the evening?",
+                    "Does the video contain any segments where nighttime is illuminated by moonlight?"
+                ],
+                "Scene Attribute Evolution_1": [
+                    "Does the scene transition from bright midday sun to dark clouds gathering, casting shadows over time? To judge this question, it must first be determined that the scene exhibits bright midday sun at a certain time and subsequently exhibits dark clouds gathering, casting shadows, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from dark clouds gathering, casting shadows to a heavy downpour making the statue appear sleek over time? To judge this question, it must first be determined that the scene exhibits dark clouds gathering, casting shadows at a certain time and subsequently exhibits a heavy downpour making the statue appear sleek, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from a heavy downpour making the statue appear sleek to the rain stopped with a rainbow overhead over time? To judge this question, it must first be determined that the scene exhibits a heavy downpour making the statue appear sleek at a certain time and subsequently exhibits the rain stopped with a rainbow overhead, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from the rain stopped with a rainbow overhead to a deep orange sky in the evening over time? To judge this question, it must first be determined that the scene exhibits the rain stopped with a rainbow overhead at a certain time and subsequently exhibits a deep orange sky in the evening, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from a deep orange sky in the evening to nighttime illuminated by moonlight over time? To judge this question, it must first be determined that the scene exhibits a deep orange sky in the evening at a certain time and subsequently exhibits nighttime illuminated by moonlight, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the ancient historical building courtyard scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the grand statue undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "2": [
+        {
+            "prompt_gen": "In a lush green field, the sun shines brightly. Gradually, dark clouds gather, and heavy rain begins to pour, soaking the entire area. Then, the scene changes as the rain transforms into snow, covering the farmland with a thick blanket of white. Over time, the snow starts to melt, leaving the farmland damp. Next, the sky clears up, and the sunlight shines brightly again, fully drying the fields. Finally, dusk arrives, and the setting sun casts a warm golden glow over the entire scene.",
+            "prompt_gen_list_extract": [
+                "In a lush green field, the sun shines brightly.",
+                "Gradually, dark clouds gather, and heavy rain begins to pour, soaking the entire area.",
+                "The rain transforms into snow, covering the farmland with a thick blanket of white.",
+                "The snow starts to melt, leaving the farmland damp.",
+                "The sky clears up, and the sunlight shines brightly again, fully drying the fields.",
+                "Dusk arrives, and the setting sun casts a warm golden glow over the entire scene."
+            ],
+            "element_extract": {
+                "Scene Type": "lush green field",
+                "Main Target Category": [],
+                "Initial Scene Attributes": "bright sunlight",
+                "Main Target Layout": null,
+                "Scene Attribute Evolution": [
+                    "bright sunlight",
+                    "dark clouds and heavy rain",
+                    "snow covering the farmland",
+                    "melting snow leaving farmland damp",
+                    "bright sunlight drying fields",
+                    "warm golden glow at dusk"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a lush green field?"
+                ],
+                "Main Target Category": null,
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by bright sunlight?"
+                ],
+                "Main Target Layout": null,
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that are bright sunlight?",
+                    "Does the video contain any segments with dark clouds and heavy rain?",
+                    "Does the video contain any segments where snow covers the farmland?",
+                    "Does the video contain any segments where melting snow leaves the farmland damp?",
+                    "Does the video contain any segments with bright sunlight drying the fields?",
+                    "Does the video contain any segments with a warm golden glow at dusk?"
+                ],
+                "Scene Attribute Evolution_1": [
+                    "Does the scene transition from bright sunlight to dark clouds and heavy rain over time? To judge this question, it must first be determined that the scene exhibits bright sunlight at a certain time and subsequently exhibits dark clouds and heavy rain, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from dark clouds and heavy rain to snow covering the farmland over time? To judge this question, it must first be determined that the scene exhibits dark clouds and heavy rain at a certain time and subsequently exhibits snow covering the farmland, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from snow covering the farmland to melting snow leaving the farmland damp over time? To judge this question, it must first be determined that the scene exhibits snow covering the farmland at a certain time and subsequently exhibits melting snow leaving the farmland damp, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from melting snow leaving the farmland damp to bright sunlight drying the fields over time? To judge this question, it must first be determined that the scene exhibits melting snow leaving the farmland damp at a certain time and subsequently exhibits bright sunlight drying the fields, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from bright sunlight drying the fields to a warm golden glow at dusk over time? To judge this question, it must first be determined that the scene exhibits bright sunlight drying the fields at a certain time and subsequently exhibits a warm golden glow at dusk, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the lush green field scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": null
+            }
+        },
+        {
+            "prompt_gen": "In a tranquil park on a sunny afternoon, the shadows of trees crisscross on the grass. Suddenly, dark clouds gather, and raindrops begin to fall, soaking the entire area. Then, the rain stops, and mist envelops the park, creating a soft veil of haze. Following this, sunlight breaks through the clouds, casting a golden glow. Eventually, dusk falls, painting the sky in shades of orange and pink. Finally, night descends, and the park flickers under the dim light of the street lamps.",
+            "prompt_gen_list_extract": [
+                "In a tranquil park on a sunny afternoon, the shadows of trees crisscross on the grass.",
+                "Suddenly, dark clouds gather, and raindrops begin to fall, soaking the entire area.",
+                "The rain stops, and mist envelops the park, creating a soft veil of haze.",
+                "Sunlight breaks through the clouds, casting a golden glow.",
+                "Dusk falls, painting the sky in shades of orange and pink.",
+                "Night descends, and the park flickers under the dim light of the street lamps."
+            ],
+            "element_extract": {
+                "Scene Type": "tranquil park",
+                "Main Target Category": [
+                    "shadows of trees"
+                ],
+                "Initial Scene Attributes": "sunny afternoon",
+                "Main Target Layout": "the shadows of trees crisscross on the grass",
+                "Scene Attribute Evolution": [
+                    "sunny afternoon",
+                    "dark clouds gather and rain falls",
+                    "mist creating a soft veil of haze",
+                    "sunlight casting a golden glow",
+                    "dusk painting the sky in shades of orange and pink",
+                    "night flickers under the dim light of the street lamps"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a tranquil park?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature the shadows of trees?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being sunny in the afternoon?"
+                ],
+                "Main Target Layout": [
+                    "Are the shadows of trees crisscrossing on the grass?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that are sunny in the afternoon?",
+                    "Does the video contain any segments that show dark clouds gathering and rain falling?",
+                    "Does the video contain any segments that capture mist creating a soft veil of haze?",
+                    "Does the video contain any segments where sunlight casts a golden glow?",
+                    "Does the video contain any segments where dusk paints the sky in shades of orange and pink?",
+                    "Does the video contain any segments where night flickers under the dim light of the street lamps?"
+                ],
+                "Scene Attribute Evolution_1": [
+                    "Does the scene transition from sunny in the afternoon to dark clouds gathering and rain falling over time? To judge this question, it must first be determined that the scene is sunny in the afternoon at a certain time and subsequently dark clouds gather and rain falls, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from dark clouds gathering and rain falling to mist creating a soft veil of haze over time? To judge this question, it must first be determined that the scene shows dark clouds gathering and rain falling at a certain time and subsequently mist creates a soft veil of haze, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from mist creating a soft veil of haze to sunlight casting a golden glow over time? To judge this question, it must first be determined that the scene captures mist creating a soft veil of haze at a certain time and subsequently sunlight casts a golden glow, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from sunlight casting a golden glow to dusk painting the sky in shades of orange and pink over time? To judge this question, it must first be determined that the scene shows sunlight casting a golden glow at a certain time and subsequently dusk paints the sky in shades of orange and pink, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from dusk painting the sky in shades of orange and pink to night flickering under the dim light of the street lamps over time? To judge this question, it must first be determined that the scene shows dusk painting the sky in shades of orange and pink at a certain time and subsequently night flickers under the dim light of the street lamps, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the tranquil park scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the shadows of trees undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "4": [
+        {
+            "prompt_gen": "```\nInside a bustling fabric store, bolts of colorful fabrics are neatly arranged on shelves,  and the store is filled with bright natural sunlight streaming through large windows. Suddenly, the lights flicker and switch to a soft warm yellow, altering the entire scene's ambiance. Following this, the store's lighting changes to a cool blue, creating a serene atmosphere. Then, vibrant multicolored lights switch on, adding a festive feel to the space. After a while, the colors fade to a dim red, casting the store in a deep, warm hue. Later, the lighting brightens up to a stark white, making everything in the store appear crisp and clear.\n```",
+            "prompt_gen_list_extract": [
+                "Inside a bustling fabric store, bolts of colorful fabrics are neatly arranged on shelves, and the store is filled with bright natural sunlight streaming through large windows.",
+                "Suddenly, the lights flicker and switch to a soft warm yellow, altering the entire scene's ambiance.",
+                "The store's lighting changes to a cool blue, creating a serene atmosphere.",
+                "Vibrant multicolored lights switch on, adding a festive feel to the space.",
+                "The colors fade to a dim red, casting the store in a deep, warm hue.",
+                "The lighting brightens up to a stark white, making everything in the store appear crisp and clear."
+            ],
+            "element_extract": {
+                "Scene Type": "fabric store",
+                "Main Target Category": [
+                    "bolts of colorful fabrics"
+                ],
+                "Initial Scene Attributes": "bright natural sunlight",
+                "Main Target Layout": "bolts of colorful fabrics are neatly arranged on shelves",
+                "Scene Attribute Evolution": [
+                    "bright natural sunlight",
+                    "soft warm yellow lights",
+                    "cool blue lighting",
+                    "vibrant multicolored lights",
+                    "dim red lights",
+                    "stark white lighting"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a fabric store?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature bolts of colorful fabrics?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by bright natural sunlight?"
+                ],
+                "Main Target Layout": [
+                    "Are the bolts of colorful fabrics neatly arranged on shelves?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments showing bright natural sunlight?",
+                    "Does the video contain any segments with soft warm yellow lights?",
+                    "Does the video contain any segments with cool blue lighting?",
+                    "Does the video contain any segments with vibrant multicolored lights?",
+                    "Does the video contain any segments with dim red lights?",
+                    "Does the video contain any segments with stark white lighting?"
+                ],
+                "Scene Attribute Evolution_1": [
+                    "Does the scene transition from bright natural sunlight to soft warm yellow lights over time? To judge this question, it must first be determined that the scene exhibits bright natural sunlight at a certain time and subsequently exhibits soft warm yellow lights, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from soft warm yellow lights to cool blue lighting over time? To judge this question, it must first be determined that the scene exhibits soft warm yellow lights at a certain time and subsequently exhibits cool blue lighting, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from cool blue lighting to vibrant multicolored lights over time? To judge this question, it must first be determined that the scene exhibits cool blue lighting at a certain time and subsequently exhibits vibrant multicolored lights, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from vibrant multicolored lights to dim red lights over time? To judge this question, it must first be determined that the scene exhibits vibrant multicolored lights at a certain time and subsequently exhibits dim red lights, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from dim red lights to stark white lighting over time? To judge this question, it must first be determined that the scene exhibits dim red lights at a certain time and subsequently exhibits stark white lighting, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the fabric store scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the bolts of colorful fabrics undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "In a cozy winery, warm yellow lights create an inviting and charming atmosphere. Wine bottles are neatly arranged on the shelves, and there is a table in the center of the room with an unlit candle on it. Suddenly, the lights dim, and the whole scene is enveloped in a soft twilight. Then, the candles on each table are lit, adding a romantic glow to the room. Shortly after, the candlelight shifts to a soft pink, imparting an air of elegance. Next, the color changes to a tranquil blue, creating a calming effect. Finally, multicolored lights begin to flicker above, filling the entire environment with vibrancy and liveliness.",
+            "prompt_gen_list_extract": [
+                "In a cozy winery, warm yellow lights create an inviting and charming atmosphere. Wine bottles are neatly arranged on the shelves, and there is a table in the center of the room with an unlit candle on it.",
+                "The lights dim, and the whole scene is enveloped in a soft twilight.",
+                "The candles on each table are lit, adding a romantic glow to the room.",
+                "The candlelight shifts to a soft pink, imparting an air of elegance.",
+                "The color changes to a tranquil blue, creating a calming effect.",
+                "Multicolored lights begin to flicker above, filling the entire environment with vibrancy and liveliness."
+            ],
+            "element_extract": {
+                "Scene Type": "cozy winery",
+                "Main Target Category": [
+                    "wine bottles",
+                    "table",
+                    "unlit candle"
+                ],
+                "Initial Scene Attributes": "warm yellow lights creating an inviting and charming atmosphere",
+                "Main Target Layout": "Wine bottles are neatly arranged on the shelves, and there is a table in the center of the room with an unlit candle on it.",
+                "Scene Attribute Evolution": [
+                    "warm yellow lights creating an inviting and charming atmosphere",
+                    "soft twilight",
+                    "romantic glow from lit candles",
+                    "soft pink candlelight imparting elegance",
+                    "tranquil blue candlelight creating a calming effect",
+                    "multicolored lights flickering above, filling the environment with vibrancy and liveliness"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a cozy winery?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature wine bottles?",
+                    "Does the scene feature a table?",
+                    "Does the scene feature an unlit candle?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by warm yellow lights creating an inviting and charming atmosphere?"
+                ],
+                "Main Target Layout": [
+                    "Are the wine bottles neatly arranged on the shelves?",
+                    "Is there a table in the center of the room with an unlit candle on it?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments showcasing warm yellow lights creating an inviting and charming atmosphere?",
+                    "Does the video contain any segments featuring soft twilight?",
+                    "Does the video contain any segments with a romantic glow from lit candles?",
+                    "Does the video contain any segments featuring soft pink candlelight imparting elegance?",
+                    "Does the video contain any segments showcasing tranquil blue candlelight creating a calming effect?",
+                    "Does the video contain any segments with multicolored lights flickering above, filling the environment with vibrancy and liveliness?"
+                ],
+                "Scene Attribute Evolution_1": [
+                    "Does the scene transition from warm yellow lights creating an inviting and charming atmosphere to soft twilight over time? To judge this question, it must first be determined that the scene exhibits warm yellow lights creating an inviting and charming atmosphere at a certain time and subsequently exhibits soft twilight, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from soft twilight to a romantic glow from lit candles over time? To judge this question, it must first be determined that the scene exhibits soft twilight at a certain time and subsequently exhibits a romantic glow from lit candles, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from a romantic glow from lit candles to soft pink candlelight imparting elegance over time? To judge this question, it must first be determined that the scene exhibits a romantic glow from lit candles at a certain time and subsequently exhibits soft pink candlelight imparting elegance, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from soft pink candlelight imparting elegance to tranquil blue candlelight creating a calming effect over time? To judge this question, it must first be determined that the scene exhibits soft pink candlelight imparting elegance at a certain time and subsequently exhibits tranquil blue candlelight creating a calming effect, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from tranquil blue candlelight creating a calming effect to multicolored lights flickering above, filling the environment with vibrancy and liveliness over time? To judge this question, it must first be determined that the scene exhibits tranquil blue candlelight creating a calming effect at a certain time and subsequently exhibits multicolored lights flickering above, filling the environment with vibrancy and liveliness, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the cozy winery scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the wine bottles undergo abnormal deformation over time?",
+                    "Does the table undergo abnormal deformation over time?",
+                    "Does the unlit candle undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "8": [
+        {
+            "prompt_gen": "On a cold winter day, a snow-covered car is parked beside a quiet street. Suddenly, the scene changes as the snow begins to melt, revealing the car's vibrant red paint. Soon after, the clear sky turns overcast, and heavy rain begins to fall. The rain ceases, the sky clears, and bright sunlight shines down. As evening approaches, the sky transforms into a beautiful sunset, casting a warm orange glow over the car. Finally, night falls, and the streetlights illuminate the tranquil street.",
+            "prompt_gen_list_extract": [
+                "On a cold winter day, a snow-covered car is parked beside a quiet street.",
+                "The snow begins to melt, revealing the car's vibrant red paint.",
+                "The clear sky turns overcast, and heavy rain begins to fall.",
+                "The rain ceases, the sky clears, and bright sunlight shines down.",
+                "As evening approaches, the sky transforms into a beautiful sunset, casting a warm orange glow over the car.",
+                "Finally, night falls, and the streetlights illuminate the tranquil street."
+            ],
+            "element_extract": {
+                "Scene Type": "quiet street",
+                "Main Target Category": [
+                    "a snow-covered car"
+                ],
+                "Initial Scene Attributes": "cold winter day",
+                "Main Target Layout": "a snow-covered car is parked beside a quiet street.",
+                "Scene Attribute Evolution": [
+                    "cold winter day",
+                    "snow melting revealing the car's vibrant red paint",
+                    "clear sky turns overcast and heavy rain begins to fall",
+                    "rain ceases, sky clears with bright sunlight",
+                    "sky transforms into a beautiful sunset casting a warm orange glow",
+                    "night falls with streetlights illuminating the tranquil street"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place on a quiet street?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a snow-covered car?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by a cold winter day?"
+                ],
+                "Main Target Layout": [
+                    "Is the snow-covered car parked beside the quiet street?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that show a cold winter day?",
+                    "Does the video contain any segments where the snow melts revealing the car's vibrant red paint?",
+                    "Does the video contain any segments where the clear sky turns overcast and heavy rain begins to fall?",
+                    "Does the video contain any segments where rain ceases and the sky clears with bright sunlight?",
+                    "Does the video contain any segments where the sky transforms into a beautiful sunset casting a warm orange glow?",
+                    "Does the video contain any segments where night falls with streetlights illuminating the tranquil street?"
+                ],
+                "Scene Attribute Evolution_1": [
+                    "Does the scene transition from a cold winter day to snow melting revealing the car's vibrant red paint over time? To judge this question, it must first be determined that the scene exhibits a cold winter day at a certain time and subsequently exhibits snow melting revealing the car's vibrant red paint, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from snow melting revealing the car's vibrant red paint to the clear sky turning overcast and heavy rain beginning to fall over time? To judge this question, it must first be determined that the scene exhibits snow melting revealing the car's vibrant red paint at a certain time and subsequently exhibits the clear sky turning overcast and heavy rain beginning to fall, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from the clear sky turning overcast and heavy rain beginning to fall to rain ceasing and the sky clearing with bright sunlight over time? To judge this question, it must first be determined that the scene exhibits the clear sky turning overcast and heavy rain beginning to fall at a certain time and subsequently exhibits rain ceasing and the sky clearing with bright sunlight, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from rain ceasing and the sky clearing with bright sunlight to the sky transforming into a beautiful sunset casting a warm orange glow over time? To judge this question, it must first be determined that the scene exhibits rain ceasing and the sky clearing with bright sunlight at a certain time and subsequently exhibits the sky transforming into a beautiful sunset casting a warm orange glow, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from the sky transforming into a beautiful sunset casting a warm orange glow to night falling with streetlights illuminating the tranquil street over time? To judge this question, it must first be determined that the scene exhibits the sky transforming into a beautiful sunset casting a warm orange glow at a certain time and subsequently exhibits night falling with streetlights illuminating the tranquil street, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the quiet street scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the snow-covered car undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "1": [
+        {
+            "prompt_gen": "Beside a stretch of green grass and a gently flowing stream, tall trees and bushes grow under the bright sun. As time passes, the sunlight gradually diminishes, and the scene transitions into dusk, with a warm golden glow spreading across the area. Then, night falls, casting a deepening blue twilight. Soon, the sky becomes completely dark, and the entire scene is illuminated by the soft silver light of the moon. As dawn approaches, the sky and scenery are brushed with delicate pink hues. Finally, the sun rises fully, bringing back the vibrant colors and life to the grassy area by the stream.",
+            "prompt_gen_list_extract": [
+                "Beside a stretch of green grass and a gently flowing stream, tall trees and bushes grow under the bright sun.",
+                "The sunlight gradually diminishes, and the scene transitions into dusk with a warm golden glow spreading across the area.",
+                "Night falls, casting a deepening blue twilight.",
+                "The sky becomes completely dark, and the entire scene is illuminated by the soft silver light of the moon.",
+                "As dawn approaches, the sky and scenery are brushed with delicate pink hues.",
+                "The sun rises fully, bringing back the vibrant colors and life to the grassy area by the stream."
+            ],
+            "element_extract": {
+                "Scene Type": "beside a stretch of green grass and a gently flowing stream",
+                "Main Target Category": [
+                    "tall trees",
+                    "bushes"
+                ],
+                "Initial Scene Attributes": "bright sun",
+                "Main Target Layout": "tall trees and bushes grow under the bright sun beside a green grass and gently flowing stream.",
+                "Scene Attribute Evolution": [
+                    "bright sun",
+                    "dusk with a warm golden glow",
+                    "deepening blue twilight",
+                    "soft silver light of the moon",
+                    "delicate pink hues of dawn",
+                    "vibrant colors and life as the sun rises fully"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place beside a stretch of green grass and a gently flowing stream?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature tall trees?",
+                    "Does the scene feature bushes?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by bright sun?"
+                ],
+                "Main Target Layout": [
+                    "Do tall trees and bushes grow under the bright sun beside a green grass and gently flowing stream?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments with bright sun?",
+                    "Does the video contain any segments with dusk featuring a warm golden glow?",
+                    "Does the video contain any segments showing deepening blue twilight?",
+                    "Does the video contain any segments with the soft silver light of the moon?",
+                    "Does the video contain any segments with delicate pink hues of dawn?",
+                    "Does the video contain any segments with vibrant colors and life as the sun rises fully?"
+                ],
+                "Scene Attribute Evolution_1": [
+                    "Does the scene transition from bright sun to dusk with a warm golden glow over time? To judge this question, it must first be determined that the scene has bright sun at a certain time and subsequently shows dusk with a warm golden glow, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from dusk with a warm golden glow to deepening blue twilight over time? To judge this question, it must first be determined that the scene shows dusk with a warm golden glow at a certain time and subsequently shows deepening blue twilight, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from deepening blue twilight to the soft silver light of the moon over time? To judge this question, it must first be determined that the scene shows deepening blue twilight at a certain time and subsequently shows the soft silver light of the moon, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from the soft silver light of the moon to delicate pink hues of dawn over time? To judge this question, it must first be determined that the scene shows the soft silver light of the moon at a certain time and subsequently shows delicate pink hues of dawn, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from delicate pink hues of dawn to vibrant colors and life as the sun rises fully over time? To judge this question, it must first be determined that the scene shows delicate pink hues of dawn at a certain time and subsequently shows vibrant colors and life as the sun rises fully, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the scene beside a stretch of green grass and a gently flowing stream undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the tall trees undergo abnormal deformation over time?",
+                    "Do the bushes undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "7": [
+        {
+            "prompt_gen": "At the sports ground, a red banner with white text flies high, illuminated by the bright midday sun. Then, ominous clouds gather, casting dark shadows over the scene. Shortly after, a light drizzle begins, dampening the banner. The rain intensifies, turning into a heavy downpour, soaking every inch of the banner and sports ground. As the storm passes, the sky clears, and a brilliant rainbow appears, arching across the scene. Finally, the rainbow fades, and dusk settles in, bringing a serene twilight glow over the entire sports ground.",
+            "prompt_gen_list_extract": [
+                "At the sports ground, a red banner with white text flies high, illuminated by the bright midday sun.",
+                "Ominous clouds gather, casting dark shadows over the scene.",
+                "A light drizzle begins, dampening the banner.",
+                "The rain intensifies, turning into a heavy downpour, soaking every inch of the banner and sports ground.",
+                "As the storm passes, the sky clears, and a brilliant rainbow appears, arching across the scene.",
+                "The rainbow fades, and dusk settles in, bringing a serene twilight glow over the entire sports ground."
+            ],
+            "element_extract": {
+                "Scene Type": "sports ground",
+                "Main Target Category": [
+                    "red banner with white text"
+                ],
+                "Initial Scene Attributes": "bright midday sun",
+                "Main Target Layout": "a red banner with white text flies high at the sports ground.",
+                "Scene Attribute Evolution": [
+                    "bright midday sun",
+                    "ominous clouds casting dark shadows",
+                    "light drizzle dampening the banner",
+                    "heavy downpour soaking the banner and sports ground",
+                    "brilliant rainbow appearing in the sky",
+                    "dusk settling with a serene twilight glow"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place at a sports ground?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a red banner with white text?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by a bright midday sun?"
+                ],
+                "Main Target Layout": [
+                    "Is the red banner with white text positioned high at the sports ground?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that show a bright midday sun?",
+                    "Does the video contain any segments showing ominous clouds casting dark shadows?",
+                    "Does the video contain any segments where light drizzle dampens the banner?",
+                    "Does the video contain any segments showing heavy downpour soaking the banner and sports ground?",
+                    "Does the video contain any segments showcasing a brilliant rainbow appearing in the sky?",
+                    "Does the video contain any segments where dusk settles with a serene twilight glow?"
+                ],
+                "Scene Attribute Evolution_1": [
+                    "Does the scene transition from a bright midday sun to ominous clouds casting dark shadows over time? To judge this question, it must first be determined that the scene exhibits a bright midday sun at a certain time and subsequently exhibits ominous clouds casting dark shadows, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from ominous clouds casting dark shadows to light drizzle dampening the banner over time? To judge this question, it must first be determined that the scene exhibits ominous clouds casting dark shadows at a certain time and subsequently exhibits light drizzle dampening the banner, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from light drizzle dampening the banner to heavy downpour soaking the banner and sports ground over time? To judge this question, it must first be determined that the scene exhibits light drizzle dampening the banner at a certain time and subsequently exhibits heavy downpour soaking the banner and sports ground, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from heavy downpour soaking the banner and sports ground to a brilliant rainbow appearing in the sky over time? To judge this question, it must first be determined that the scene exhibits heavy downpour soaking the banner and sports ground at a certain time and subsequently exhibits a brilliant rainbow appearing in the sky, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from a brilliant rainbow appearing in the sky to dusk settling with a serene twilight glow over time? To judge this question, it must first be determined that the scene exhibits a brilliant rainbow appearing in the sky at a certain time and subsequently exhibits dusk settling with a serene twilight glow, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the sports ground scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the red banner with white text undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "The scene unfolds in a grand gladiatorial arena, where the intense afternoon sun beams down, causing the sandy ground to sizzle under the scorching heat and radiate a blistering glow. Suddenly, dark clouds swiftly gather overhead, casting dense shadows across the arena. Then, a torrential downpour comes crashing down, soaking the entire area and turning the sandy ground into mud. As the rain gradually eases, the air becomes humid, and mist envelops the arena, creating an eerie atmosphere. Slowly, the fog dissipates, and the arena is bathed in the soft golden light of the setting sun, with warm amber rays piercing through the clouds. Finally, night descends, and the surrounding torches flicker to life, their flames casting dancing shadows on the silent sandy ground.",
+            "prompt_gen_list_extract": [
+                "The scene unfolds in a grand gladiatorial arena, where the intense afternoon sun beams down, causing the sandy ground to sizzle under the scorching heat and radiate a blistering glow.",
+                "Suddenly, dark clouds swiftly gather overhead, casting dense shadows across the arena.",
+                "A torrential downpour comes crashing down, soaking the entire area and turning the sandy ground into mud.",
+                "As the rain gradually eases, the air becomes humid, and mist envelops the arena, creating an eerie atmosphere.",
+                "Slowly, the fog dissipates, and the arena is bathed in the soft golden light of the setting sun, with warm amber rays piercing through the clouds.",
+                "Finally, night descends, and the surrounding torches flicker to life, their flames casting dancing shadows on the silent sandy ground."
+            ],
+            "element_extract": {
+                "Scene Type": "grand gladiatorial arena",
+                "Main Target Category": [],
+                "Initial Scene Attributes": "intense afternoon sun causing sandy ground to sizzle",
+                "Main Target Layout": "sandy ground under the intense afternoon sun",
+                "Scene Attribute Evolution": [
+                    "intense afternoon sun causing sandy ground to sizzle",
+                    "dark clouds gathering overhead casting dense shadows",
+                    "torrential downpour soaking the area turning sandy ground into mud",
+                    "mist enveloping the arena creating an eerie atmosphere",
+                    "soft golden light of setting sun with warm amber rays",
+                    "night with surrounding torches casting dancing shadows"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a grand gladiatorial arena?"
+                ],
+                "Main Target Category": null,
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by intense afternoon sun causing the sandy ground to sizzle?"
+                ],
+                "Main Target Layout": [
+                    "Is the sandy ground under the intense afternoon sun?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments where the intense afternoon sun causes the sandy ground to sizzle?",
+                    "Does the video contain any segments with dark clouds gathering overhead casting dense shadows?",
+                    "Does the video contain any segments with torrential downpour soaking the area turning the sandy ground into mud?",
+                    "Does the video contain any segments with mist enveloping the arena creating an eerie atmosphere?",
+                    "Does the video contain any segments with the soft golden light of the setting sun with warm amber rays?",
+                    "Does the video contain any segments showing night with surrounding torches casting dancing shadows?"
+                ],
+                "Scene Attribute Evolution_1": [
+                    "Does the scene transition from intense afternoon sun causing the sandy ground to sizzle to dark clouds gathering overhead casting dense shadows over time? To judge this question, it must first be determined that the scene exhibits intense afternoon sun causing the sandy ground to sizzle at a certain time and subsequently exhibits dark clouds gathering overhead casting dense shadows, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from dark clouds gathering overhead casting dense shadows to torrential downpour soaking the area turning the sandy ground into mud over time? To judge this question, it must first be determined that the scene exhibits dark clouds gathering overhead casting dense shadows at a certain time and subsequently exhibits torrential downpour soaking the area turning the sandy ground into mud, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from torrential downpour soaking the area turning the sandy ground into mud to mist enveloping the arena creating an eerie atmosphere over time? To judge this question, it must first be determined that the scene exhibits torrential downpour soaking the area turning the sandy ground into mud at a certain time and subsequently exhibits mist enveloping the arena creating an eerie atmosphere, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from mist enveloping the arena creating an eerie atmosphere to the soft golden light of the setting sun with warm amber rays over time? To judge this question, it must first be determined that the scene exhibits mist enveloping the arena creating an eerie atmosphere at a certain time and subsequently exhibits the soft golden light of the setting sun with warm amber rays, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from the soft golden light of the setting sun with warm amber rays to night with surrounding torches casting dancing shadows over time? To judge this question, it must first be determined that the scene exhibits the soft golden light of the setting sun with warm amber rays at a certain time and subsequently exhibits night with surrounding torches casting dancing shadows, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the grand gladiatorial arena scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": null
+            }
+        }
+    ],
+    "3": [
+        {
+            "prompt_gen": "In a warmly lit lounge, the bar stools are neatly arranged along the counter, with soft, ambient lighting creating a relaxed atmosphere. Suddenly, the lights dim, casting a shadowy tone across the whole lounge. Then, colored lights begin to flicker, adding a vibrant, dynamic effect to the scene. After this, the flickering lights shift to a steady blue hue, filling the lounge with a calming, cool light. Next, the blue light changes to a deep red, enveloping the space in a warm, intimate glow. Finally, the deep red turns to a pale green, giving the lounge a fresh, rejuvenated look.",
+            "prompt_gen_list_extract": [
+                "In a warmly lit lounge, the bar stools are neatly arranged along the counter, with soft, ambient lighting creating a relaxed atmosphere.",
+                "The lights dim, casting a shadowy tone across the whole lounge.",
+                "Colored lights begin to flicker, adding a vibrant, dynamic effect to the scene.",
+                "The flickering lights shift to a steady blue hue, filling the lounge with a calming, cool light.",
+                "The blue light changes to a deep red, enveloping the space in a warm, intimate glow.",
+                "The deep red turns to a pale green, giving the lounge a fresh, rejuvenated look."
+            ],
+            "element_extract": {
+                "Scene Type": "lounge",
+                "Main Target Category": [
+                    "bar stools",
+                    "counter"
+                ],
+                "Initial Scene Attributes": "warmly lit, relaxed atmosphere",
+                "Main Target Layout": "bar stools are neatly arranged along the counter",
+                "Scene Attribute Evolution": [
+                    "warmly lit, relaxed atmosphere",
+                    "dim lights casting shadowy tone",
+                    "colored lights flickering vibrantly",
+                    "steady blue hue, calming cool light",
+                    "deep red, warm intimate glow",
+                    "pale green, fresh rejuvenated look"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a lounge?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature bar stools?",
+                    "Does the scene feature a counter?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by a warmly lit, relaxed atmosphere?"
+                ],
+                "Main Target Layout": [
+                    "Are the bar stools positioned neatly along the counter?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that are warmly lit and convey a relaxed atmosphere?",
+                    "Does the video contain any segments with dim lights casting a shadowy tone?",
+                    "Does the video contain any segments with colored lights flickering vibrantly?",
+                    "Does the video contain any segments with a steady blue hue, giving off a calming cool light?",
+                    "Does the video contain any segments with a deep red, warm intimate glow?",
+                    "Does the video contain any segments with a pale green, fresh rejuvenated look?"
+                ],
+                "Scene Attribute Evolution_1": [
+                    "Does the scene transition from a warmly lit, relaxed atmosphere to dim lights casting a shadowy tone over time? To judge this question, it must first be determined that the scene is warmly lit and relaxed at a certain time and subsequently has dim lights casting a shadowy tone, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from dim lights casting a shadowy tone to colored lights flickering vibrantly over time? To judge this question, it must first be determined that the scene has dim lights casting a shadowy tone at a certain time and subsequently has colored lights flickering vibrantly, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from colored lights flickering vibrantly to a steady blue hue, giving off a calming cool light over time? To judge this question, it must first be determined that the scene has colored lights flickering vibrantly at a certain time and subsequently has a steady blue hue, giving off a calming cool light, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from a steady blue hue, giving off a calming cool light to a deep red, warm intimate glow over time? To judge this question, it must first be determined that the scene has a steady blue hue, giving off a calming cool light at a certain time and subsequently has a deep red, warm intimate glow, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from a deep red, warm intimate glow to a pale green, fresh rejuvenated look over time? To judge this question, it must first be determined that the scene has a deep red, warm intimate glow at a certain time and subsequently has a pale green, fresh rejuvenated look, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the lounge scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the bar stools undergo abnormal deformation over time?",
+                    "Does the counter undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "10": [
+        {
+            "prompt_gen": "In an abandoned amusement park, the scene is initially set under a clear blue sky with bright sunshine casting long shadows over rusty rides and broken pathways. Suddenly, the sky turns overcast with dense grey clouds, enveloping the park in a somber mood. Next, a thick blanket of fog rolls in, reducing visibility and creating an eerie atmosphere. After that, the fog starts to lift, revealing the park under a dull and gloomy daylight. Then, the scene transitions as heavy rain begins to pour, drenching everything and forming puddles on the ground. Finally, the rain stops, and the sun emerges once again, casting a soft, warm glow over the now wet and glistening abandoned amusement park.",
+            "prompt_gen_list_extract": [
+                "In an abandoned amusement park, the scene is initially set under a clear blue sky with bright sunshine casting long shadows over rusty rides and broken pathways.",
+                "Suddenly, the sky turns overcast with dense grey clouds, enveloping the park in a somber mood.",
+                "Next, a thick blanket of fog rolls in, reducing visibility and creating an eerie atmosphere.",
+                "After that, the fog starts to lift, revealing the park under a dull and gloomy daylight.",
+                "Then, the scene transitions as heavy rain begins to pour, drenching everything and forming puddles on the ground.",
+                "Finally, the rain stops, and the sun emerges once again, casting a soft, warm glow over the now wet and glistening abandoned amusement park."
+            ],
+            "element_extract": {
+                "Scene Type": "abandoned amusement park",
+                "Main Target Category": [
+                    "rusty rides",
+                    "broken pathways"
+                ],
+                "Initial Scene Attributes": "bright sunshine casting long shadows",
+                "Main Target Layout": "Bright sunshine casts long shadows over rusty rides and broken pathways.",
+                "Scene Attribute Evolution": [
+                    "bright sunshine casting long shadows",
+                    "dense grey clouds enveloping the park",
+                    "thick blanket of fog creating an eerie atmosphere",
+                    "dull and gloomy daylight",
+                    "heavy rain pouring and forming puddles",
+                    "soft, warm glow after the rain"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in an abandoned amusement park?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature rusty rides?",
+                    "Does the scene feature broken pathways?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by bright sunshine casting long shadows?"
+                ],
+                "Main Target Layout": [
+                    "Does bright sunshine cast long shadows over rusty rides and broken pathways?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments with bright sunshine casting long shadows?",
+                    "Does the video contain any segments with dense grey clouds enveloping the park?",
+                    "Does the video contain any segments with a thick blanket of fog creating an eerie atmosphere?",
+                    "Does the video contain any segments with dull and gloomy daylight?",
+                    "Does the video contain any segments with heavy rain pouring and forming puddles?",
+                    "Does the video contain any segments with a soft, warm glow after the rain?"
+                ],
+                "Scene Attribute Evolution_1": [
+                    "Does the scene transition from bright sunshine casting long shadows to dense grey clouds enveloping the park over time? To judge this question, it must first be determined that the scene exhibits bright sunshine casting long shadows at a certain time and subsequently dense grey clouds enveloping the park, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from dense grey clouds enveloping the park to a thick blanket of fog creating an eerie atmosphere over time? To judge this question, it must first be determined that the scene exhibits dense grey clouds enveloping the park at a certain time and subsequently a thick blanket of fog creating an eerie atmosphere, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from a thick blanket of fog creating an eerie atmosphere to dull and gloomy daylight over time? To judge this question, it must first be determined that the scene exhibits a thick blanket of fog creating an eerie atmosphere at a certain time and subsequently dull and gloomy daylight, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from dull and gloomy daylight to heavy rain pouring and forming puddles over time? To judge this question, it must first be determined that the scene exhibits dull and gloomy daylight at a certain time and subsequently heavy rain pouring and forming puddles, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from heavy rain pouring and forming puddles to a soft, warm glow after the rain over time? To judge this question, it must first be determined that the scene exhibits heavy rain pouring and forming puddles at a certain time and subsequently a soft, warm glow after the rain, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the abandoned amusement park scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the rusty rides undergo abnormal deformation over time?",
+                    "Do the broken pathways undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "14": [
+        {
+            "prompt_gen": "In a calm and serene setting, a grand Buddha statue sits surrounded by tall, lush trees, bathed in the golden glow of the afternoon sun. Suddenly, clouds gather, and the sky darkens, casting shadows over the entire scene. Next, rain starts to fall, creating a wet and glistening surface around the statue. Gradually, the rain transitions to snow, covering the statue and ground in a white blanket. Then, the snow melts away, and the sky begins to clear, restoring the brightness of the scene. Finally, as dusk approaches, the scene takes on a warm, amber hue, with the silhouette of the Buddha statue glowing softly in the fading light.",
+            "prompt_gen_list_extract": [
+                "In a calm and serene setting, a grand Buddha statue sits surrounded by tall, lush trees, bathed in the golden glow of the afternoon sun.",
+                "Suddenly, clouds gather, and the sky darkens, casting shadows over the entire scene.",
+                "Next, rain starts to fall, creating a wet and glistening surface around the statue.",
+                "Gradually, the rain transitions to snow, covering the statue and ground in a white blanket.",
+                "Then, the snow melts away, and the sky begins to clear, restoring the brightness of the scene.",
+                "Finally, as dusk approaches, the scene takes on a warm, amber hue, with the silhouette of the Buddha statue glowing softly in the fading light."
+            ],
+            "element_extract": {
+                "Scene Type": "calm and serene setting",
+                "Main Target Category": [
+                    "grand Buddha statue",
+                    "tall, lush trees"
+                ],
+                "Initial Scene Attributes": "golden glow of the afternoon sun",
+                "Main Target Layout": "a grand Buddha statue sits surrounded by tall, lush trees.",
+                "Scene Attribute Evolution": [
+                    "golden glow of the afternoon sun",
+                    "clouds gather and sky darkens casting shadows",
+                    "rain creating a wet and glistening surface",
+                    "rain transitions to snow covering the statue and ground",
+                    "snow melts and sky clears restoring brightness",
+                    "warm amber hue as dusk approaches with silhouette glowing"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a calm and serene setting?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a grand Buddha statue?",
+                    "Does the scene feature tall, lush trees?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by the golden glow of the afternoon sun?"
+                ],
+                "Main Target Layout": [
+                    "Is the grand Buddha statue surrounded by tall, lush trees?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that show the golden glow of the afternoon sun?",
+                    "Does the video contain any segments where clouds gather and the sky darkens casting shadows?",
+                    "Does the video contain any segments with rain creating a wet and glistening surface?",
+                    "Does the video contain any segments where rain transitions to snow covering the statue and ground?",
+                    "Does the video contain any segments with snow melting and the sky clearing restoring brightness?",
+                    "Does the video contain any segments with a warm amber hue as dusk approaches with the silhouette glowing?"
+                ],
+                "Scene Attribute Evolution_1": [
+                    "Does the scene transition from the golden glow of the afternoon sun to clouds gathering and the sky darkening casting shadows over time? To judge this question, it must first be determined that the scene exhibits the golden glow of the afternoon sun at a certain time and subsequently exhibits clouds gathering and the sky darkening casting shadows, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from clouds gathering and the sky darkening casting shadows to rain creating a wet and glistening surface over time? To judge this question, it must first be determined that the scene exhibits clouds gathering and the sky darkening casting shadows at a certain time and subsequently exhibits rain creating a wet and glistening surface, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from rain creating a wet and glistening surface to rain transitioning to snow covering the statue and ground over time? To judge this question, it must first be determined that the scene exhibits rain creating a wet and glistening surface at a certain time and subsequently exhibits rain transitioning to snow covering the statue and ground, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from rain transitioning to snow covering the statue and ground to snow melting and the sky clearing restoring brightness over time? To judge this question, it must first be determined that the scene exhibits rain transitioning to snow covering the statue and ground at a certain time and subsequently exhibits snow melting and the sky clearing restoring brightness, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from snow melting and the sky clearing restoring brightness to a warm amber hue as dusk approaches with the silhouette glowing over time? To judge this question, it must first be determined that the scene exhibits snow melting and the sky clearing restoring brightness at a certain time and subsequently exhibits a warm amber hue as dusk approaches with the silhouette glowing, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the calm and serene setting undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the grand Buddha statue undergo abnormal deformation over time?",
+                    "Do the tall, lush trees undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "6": [
+        {
+            "prompt_gen": "In a busy car lot under a bright midday sun, rows of cars are neatly parked with surrounding structures visible in the background. Suddenly, clouds gather, creating a gloomy atmosphere as the bright sunlight fades. Then, it begins to rain heavily, drenching the entire scene. Following the rain, snow starts to fall, forming a white blanket over the cars and structures. As the snow melts away, a stunning sunset bathes the car lot in an orange glow. Finally, nighttime arrives, casting a calm, dark ambiance over the whole car lot, with only a few streetlights illuminating the scene faintly.",
+            "prompt_gen_list_extract": [
+                "In a busy car lot under a bright midday sun, rows of cars are neatly parked with surrounding structures visible in the background.",
+                "Suddenly, clouds gather, creating a gloomy atmosphere as the bright sunlight fades.",
+                "Then, it begins to rain heavily, drenching the entire scene.",
+                "Following the rain, snow starts to fall, forming a white blanket over the cars and structures.",
+                "As the snow melts away, a stunning sunset bathes the car lot in an orange glow.",
+                "Finally, nighttime arrives, casting a calm, dark ambiance over the whole car lot, with only a few streetlights illuminating the scene faintly."
+            ],
+            "element_extract": {
+                "Scene Type": "busy car lot",
+                "Main Target Category": [
+                    "rows of cars",
+                    "surrounding structures"
+                ],
+                "Initial Scene Attributes": "bright midday sun",
+                "Main Target Layout": "rows of cars are neatly parked with surrounding structures visible in the background.",
+                "Scene Attribute Evolution": [
+                    "bright midday sun",
+                    "gloomy atmosphere as clouds gather",
+                    "heavy rain drenching the scene",
+                    "snow forming a white blanket",
+                    "stunning sunset with orange glow",
+                    "calm, dark ambiance with a few streetlights"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a busy car lot?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature rows of cars?",
+                    "Does the scene feature surrounding structures?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by bright midday sun?"
+                ],
+                "Main Target Layout": [
+                    "Are the rows of cars neatly parked with surrounding structures visible in the background?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments with bright midday sun?",
+                    "Does the video contain any segments with a gloomy atmosphere as clouds gather?",
+                    "Does the video contain any segments with heavy rain drenching the scene?",
+                    "Does the video contain any segments with snow forming a white blanket?",
+                    "Does the video contain any segments with a stunning sunset with an orange glow?",
+                    "Does the video contain any segments with a calm, dark ambiance illuminated by a few streetlights?"
+                ],
+                "Scene Attribute Evolution_1": [
+                    "Does the scene transition from bright midday sun to a gloomy atmosphere as clouds gather over time? To judge this question, it must first be determined that the scene exhibits bright midday sun at a certain time and subsequently exhibits a gloomy atmosphere as clouds gather, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from a gloomy atmosphere as clouds gather to heavy rain drenching the scene over time? To judge this question, it must first be determined that the scene exhibits a gloomy atmosphere as clouds gather at a certain time and subsequently exhibits heavy rain drenching the scene, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from heavy rain drenching the scene to snow forming a white blanket over time? To judge this question, it must first be determined that the scene exhibits heavy rain drenching the scene at a certain time and subsequently exhibits snow forming a white blanket, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from snow forming a white blanket to a stunning sunset with an orange glow over time? To judge this question, it must first be determined that the scene exhibits snow forming a white blanket at a certain time and subsequently exhibits a stunning sunset with an orange glow, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from a stunning sunset with an orange glow to a calm, dark ambiance illuminated by a few streetlights over time? To judge this question, it must first be determined that the scene exhibits a stunning sunset with an orange glow at a certain time and subsequently exhibits a calm, dark ambiance illuminated by a few streetlights, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the busy car lot scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the rows of cars undergo abnormal deformation over time?",
+                    "Do the surrounding structures undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "The scene depicts a busy port, surrounded by various containers and cranes, bathed in bright afternoon sunlight. Suddenly, thick dark clouds roll in, casting a gloomy shadow over the entire area. Before long, a torrential downpour begins, soaking the entire scene. Then, hail starts to fall, creating a noisy and tumultuous environment. Following that, the hail subsides, and dense fog rolls into the port, significantly reducing visibility. Finally, the mist gradually disperses, revealing a quiet night illuminated by moonlight.",
+            "prompt_gen_list_extract": [
+                "The scene depicts a busy port, surrounded by various containers and cranes, bathed in bright afternoon sunlight.",
+                "Suddenly, thick dark clouds roll in, casting a gloomy shadow over the entire area.",
+                "Before long, a torrential downpour begins, soaking the entire scene.",
+                "Then, hail starts to fall, creating a noisy and tumultuous environment.",
+                "Following that, the hail subsides, and dense fog rolls into the port, significantly reducing visibility.",
+                "Finally, the mist gradually disperses, revealing a quiet night illuminated by moonlight."
+            ],
+            "element_extract": {
+                "Scene Type": "busy port",
+                "Main Target Category": [
+                    "containers",
+                    "cranes"
+                ],
+                "Initial Scene Attributes": "bright afternoon sunlight",
+                "Main Target Layout": "various containers and cranes surround the port.",
+                "Scene Attribute Evolution": [
+                    "bright afternoon sunlight",
+                    "gloomy shadow from dark clouds",
+                    "torrential downpour soaking the scene",
+                    "hail creating a noisy environment",
+                    "dense fog reducing visibility",
+                    "quiet night illuminated by moonlight"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place at a busy port?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature containers?",
+                    "Does the scene feature cranes?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by bright afternoon sunlight?"
+                ],
+                "Main Target Layout": [
+                    "Are various containers and cranes surrounding the port?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments with bright afternoon sunlight?",
+                    "Does the video contain any segments with gloomy shadow from dark clouds?",
+                    "Does the video contain any segments with torrential downpour soaking the scene?",
+                    "Does the video contain any segments with hail creating a noisy environment?",
+                    "Does the video contain any segments with dense fog reducing visibility?",
+                    "Does the video contain any segments with a quiet night illuminated by moonlight?"
+                ],
+                "Scene Attribute Evolution_1": [
+                    "Does the scene transition from bright afternoon sunlight to gloomy shadow from dark clouds over time? To judge this question, it must first be determined that the scene is bright in the afternoon with sunlight at a certain time and subsequently is covered by gloomy shadows from dark clouds, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from gloomy shadow from dark clouds to torrential downpour soaking the scene over time? To judge this question, it must first be determined that the scene is covered by gloomy shadows from dark clouds at a certain time and subsequently soaked by torrential downpour, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from torrential downpour soaking the scene to hail creating a noisy environment over time? To judge this question, it must first be determined that the scene is soaked by torrential downpour at a certain time and subsequently is hit by hail creating a noisy environment, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from hail creating a noisy environment to dense fog reducing visibility over time? To judge this question, it must first be determined that the scene exhibits hail creating a noisy environment at a certain time and subsequently exhibits dense fog reducing visibility, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from dense fog reducing visibility to quiet night illuminated by moonlight over time? To judge this question, it must first be determined that the scene exhibits dense fog reducing visibility at a certain time and subsequently exhibits a quiet night illuminated by moonlight, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the busy port scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the containers undergo abnormal deformation over time?",
+                    "Do the cranes undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "16": [
+        {
+            "prompt_gen": "At an archaeological site, a massive transparent dome covers the excavation area, protecting the ancient artifacts basking in bright afternoon sunlight. Suddenly, a torrential downpour occurs, and the rain pounds against the dome, blurring the view inside. Before long, the rain stops, and sunlight streams in again, with warm rays filtering through the dome to clearly illuminate the artifacts. As dusk approaches, the sky transforms into a vibrant orange, creating beautiful reflections on the dome. Then, night falls, and the dome emits a faint glow under the soft moonlight, casting long shadows across the entire site. Finally, the lighting fixtures on the dome project bright lights, enhancing the atmosphere.",
+            "prompt_gen_list_extract": [
+                "At an archaeological site, a massive transparent dome covers the excavation area, protecting the ancient artifacts basking in bright afternoon sunlight.",
+                "A torrential downpour occurs, and the rain pounds against the dome, blurring the view inside.",
+                "The rain stops, and sunlight streams in again, with warm rays filtering through the dome to clearly illuminate the artifacts.",
+                "As dusk approaches, the sky transforms into a vibrant orange, creating beautiful reflections on the dome.",
+                "Night falls, and the dome emits a faint glow under the soft moonlight, casting long shadows across the entire site.",
+                "The lighting fixtures on the dome project bright lights, enhancing the atmosphere."
+            ],
+            "element_extract": {
+                "Scene Type": "archaeological site",
+                "Main Target Category": [
+                    "massive transparent dome",
+                    "excavation area",
+                    "ancient artifacts"
+                ],
+                "Initial Scene Attributes": "bright afternoon sunlight",
+                "Main Target Layout": "The massive transparent dome covers the excavation area, protecting the ancient artifacts.",
+                "Scene Attribute Evolution": [
+                    "bright afternoon sunlight",
+                    "torrential downpour blurring the view inside the dome",
+                    "sunlight streaming in with warm rays filtering through the dome",
+                    "vibrant orange sky creating reflections on the dome",
+                    "faint glow of the dome under soft moonlight casting long shadows",
+                    "bright lights projected by the dome's lighting fixtures enhancing the atmosphere"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place at an archaeological site?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a massive transparent dome?",
+                    "Does the scene feature an excavation area?",
+                    "Does the scene feature ancient artifacts?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by bright afternoon sunlight?"
+                ],
+                "Main Target Layout": [
+                    "Is the massive transparent dome positioned to cover the excavation area, protecting the ancient artifacts?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments showing bright afternoon sunlight?",
+                    "Does the video contain any segments with torrential downpour blurring the view inside the dome?",
+                    "Does the video contain any segments with sunlight streaming in with warm rays filtering through the dome?",
+                    "Does the video contain any segments where a vibrant orange sky creates reflections on the dome?",
+                    "Does the video contain any segments with a faint glow of the dome under soft moonlight casting long shadows?",
+                    "Does the video contain any segments with bright lights projected by the dome's lighting fixtures enhancing the atmosphere?"
+                ],
+                "Scene Attribute Evolution_1": [
+                    "Does the scene transition from bright afternoon sunlight to torrential downpour blurring the view inside the dome over time? To judge this question, it must first be determined that the scene exhibits bright afternoon sunlight at a certain time and subsequently exhibits torrential downpour blurring the view inside the dome, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from torrential downpour blurring the view inside the dome to sunlight streaming in with warm rays filtering through the dome over time? To judge this question, it must first be determined that the scene exhibits torrential downpour blurring the view inside the dome at a certain time and subsequently exhibits sunlight streaming in with warm rays filtering through the dome, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from sunlight streaming in with warm rays filtering through the dome to vibrant orange sky creating reflections on the dome over time? To judge this question, it must first be determined that the scene exhibits sunlight streaming in with warm rays filtering through the dome at a certain time and subsequently exhibits vibrant orange sky creating reflections on the dome, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from vibrant orange sky creating reflections on the dome to faint glow of the dome under soft moonlight casting long shadows over time? To judge this question, it must first be determined that the scene exhibits vibrant orange sky creating reflections on the dome at a certain time and subsequently exhibits faint glow of the dome under soft moonlight casting long shadows, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the scene transition from faint glow of the dome under soft moonlight casting long shadows to bright lights projected by the dome's lighting fixtures enhancing the atmosphere over time? To judge this question, it must first be determined that the scene exhibits faint glow of the dome under soft moonlight casting long shadows at a certain time and subsequently exhibits bright lights projected by the dome's lighting fixtures enhancing the atmosphere, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the archaeological site scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the massive transparent dome undergo abnormal deformation over time?",
+                    "Does the excavation area undergo abnormal deformation over time?",
+                    "Do the ancient artifacts undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ]
+}

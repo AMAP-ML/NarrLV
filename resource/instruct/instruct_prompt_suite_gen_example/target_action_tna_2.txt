@@ -1,0 +1,21 @@
+1. Case1:
+   - **Input:**
+     - Scene: Beach
+     - Target: Sea Lion
+     - TNA count: 2
+     - Reason for TNA change: Target action change
+   - **Output:**
+     ```
+     In the bright noon sunlight, a sea lion lies lazily on the beach. Suddenly, the sea lion begins to make its way toward the sea.
+     ```
+
+2. Case2:
+   - **Input:**
+     - Scene: Roadside
+     - Target: White Car
+     - TNA count: 2
+     - Reason for TNA change: Target action change
+   - **Output:**
+     ```
+     Under the clear blue sky, a white car is parked by the roadside. Suddenly, the white car starts up and begins driving along the street.
+     ```

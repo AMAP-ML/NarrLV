@@ -1,0 +1,32 @@
+1. Case1:
+   - **Input:**
+     - Scene: Bedroom
+     - Target: Headphones
+     - TNA count: 5
+     - Reason for TNA change: Target attribute change
+   - **Output:**
+     ```
+     In a bedroom, a pair of red headphones sits quietly on the table. Suddenly, the color of the headphones changes from red to green. Next, the headphones shift their color from green to white. Then, the headphones change from white to yellow. Finally, the headphones transition from yellow to black.
+     ```
+
+2. Case2:
+   - **Input:**
+     - Scene: Living Room
+     - Target: Cup
+     - TNA count: 5
+     - Reason for TNA change: Target attribute change
+   - **Output:**
+     ```
+     In a living room, a wooden staircase is on display. Gradually, the wooden staircase transforms into marble. Next, the marble staircase changes into glass. Then, the glass staircase turns into an iron staircase. Finally, the iron staircase shifts back to the original wooden staircase.
+     ```
+
+3. Case3:
+   - **Input:**
+     - Scene: Track Field
+     - Target: Running Track
+     - TNA count: 5
+     - Reason for TNA change: Target attribute change
+   - **Output:**
+     ```
+     On a track field, the running track is initially bright red. Suddenly, the track's color changes from red to blue. Then, the blue track transitions to green. Next，the green track transitions to yellow. Finally, the track's color changes from yellow to white.
+     ```

@@ -1,0 +1,1179 @@
+{
+    "12": [
+        {
+            "prompt_gen": "In an indoor hall, an electronic screen is displayed in the center of the scene, showing a blue image. Gradually, the screen display changes from blue to red. Finally, the display transitions from red to green.",
+            "prompt_gen_list_extract": [
+                "In an indoor hall, an electronic screen is displayed in the center of the scene, showing a blue image.",
+                "The screen display changes to red.",
+                "The screen display changes to green."
+            ],
+            "element_extract": {
+                "Scene Type": "indoor hall",
+                "Main Target Category": [
+                    "electronic screen"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "An electronic screen is displayed in the center of the scene, showing a blue image",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": [
+                    "The screen displays a blue image",
+                    "The screen displays a red image",
+                    "The screen displays a green image"
+                ],
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in an indoor hall?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature an electronic screen?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Is an electronic screen displayed in the center of the scene, showing a blue image?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": [
+                    "Does the video contain any segments where the screen displays a blue image?",
+                    "Does the video contain any segments where the screen displays a red image?",
+                    "Does the video contain any segments where the screen displays a green image?"
+                ],
+                "Main Target Attribute Evolution_1": [
+                    "Does the screen transition from displaying a blue image to a red image? To judge this question, it must first be determined that the screen displays a blue image at a certain time and subsequently displays a red image, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the screen transition from displaying a red image to a green image? To judge this question, it must first be determined that the screen displays a red image at a certain time and subsequently displays a green image, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the indoor hall scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the electronic screen undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "In a European building setting, a red brick tower stands prominently at the center. Gradually, the tower changes from red bricks to white bricks. Finally, the white bricks change to gray bricks.",
+            "prompt_gen_list_extract": [
+                "In a European building setting, a red brick tower stands prominently at the center.",
+                "The tower changes from red bricks to white bricks.",
+                "The white bricks change to gray bricks."
+            ],
+            "element_extract": {
+                "Scene Type": "European building setting",
+                "Main Target Category": [
+                    "red brick tower"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "A red brick tower stands prominently at the center",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": [
+                    "The tower is red brick",
+                    "The tower is white brick",
+                    "The tower is gray brick"
+                ],
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a European building setting?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a red brick tower?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Does a red brick tower stand prominently at the center?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": [
+                    "Does the video contain any segments where the tower is red brick?",
+                    "Does the video contain any segments where the tower is white brick?",
+                    "Does the video contain any segments where the tower is gray brick?"
+                ],
+                "Main Target Attribute Evolution_1": [
+                    "Does the tower transition from red brick to white brick over time? To judge this question, it must first be determined that the tower is red brick at a certain time and subsequently is white brick, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the tower transition from white brick to gray brick over time? To judge this question, it must first be determined that the tower is white brick at a certain time and subsequently is gray brick, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the European building setting scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the red brick tower undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "15": [
+        {
+            "prompt_gen": "The scene showcases a vast meadow covered in green grass. Suddenly, the color of the grass changes from green to golden yellow. Finally, the grass transitions from golden yellow to deep brown.",
+            "prompt_gen_list_extract": [
+                "The scene showcases a vast meadow covered in green grass.",
+                "The color of the grass changes to golden yellow.",
+                "The grass transitions to deep brown."
+            ],
+            "element_extract": {
+                "Scene Type": "vast meadow",
+                "Main Target Category": [
+                    "grass"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "The green grass covers the meadow",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": [
+                    "The grass is green",
+                    "The grass is golden yellow",
+                    "The grass is deep brown"
+                ],
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a vast meadow?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature grass?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Does the green grass cover the meadow?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": [
+                    "Does the video contain any segments where the grass is green?",
+                    "Does the video contain any segments where the grass is golden yellow?",
+                    "Does the video contain any segments where the grass is deep brown?"
+                ],
+                "Main Target Attribute Evolution_1": [
+                    "Does the color of the grass transition from green to golden yellow? To judge this question, it must first be determined that the grass's color is green at a certain time and subsequently is golden yellow, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the color of the grass transition from golden yellow to deep brown? To judge this question, it must first be determined that the grass's color is golden yellow at a certain time and subsequently is deep brown, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the vast meadow scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the grass undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "On a high-tech racing track, a black race car is parked at the starting line. Suddenly, the black race car changes to metallic silver. Finally, the metallic silver car transforms into blue.",
+            "prompt_gen_list_extract": [
+                "On a high-tech racing track, a black race car is parked at the starting line.",
+                "The black race car changes to metallic silver.",
+                "The metallic silver car transforms into blue."
+            ],
+            "element_extract": {
+                "Scene Type": "high-tech racing track",
+                "Main Target Category": [
+                    "race car"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "The black race car is parked at the starting line",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": [
+                    "The race car is black",
+                    "The race car is metallic silver",
+                    "The race car is blue"
+                ],
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place on a high-tech racing track?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a race car?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Is the black race car parked at the starting line?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": [
+                    "Does the video contain any segments where the race car is black?",
+                    "Does the video contain any segments where the race car is metallic silver?",
+                    "Does the video contain any segments where the race car is blue?"
+                ],
+                "Main Target Attribute Evolution_1": [
+                    "Does the color of the race car transition from black to metallic silver? To judge this question, it must first be determined that the race car's color is black at a certain time and subsequently is metallic silver, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the color of the race car transition from metallic silver to blue? To judge this question, it must first be determined that the race car's color is metallic silver at a certain time and subsequently is blue, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the high-tech racing track scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the race car undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "In a pixel art-style scene, a gray stone wall building stands prominently. Gradually, the color of the stone wall changes from gray to dark brown. Finally, the dark brown wall turns green.",
+            "prompt_gen_list_extract": [
+                "In a pixel art-style scene, a gray stone wall building stands prominently.",
+                "The color of the stone wall changes to dark brown.",
+                "The dark brown wall turns green."
+            ],
+            "element_extract": {
+                "Scene Type": "pixel art-style scene",
+                "Main Target Category": [
+                    "stone wall building"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "a gray stone wall building stands prominently",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": [
+                    "The stone wall building is gray",
+                    "The stone wall building is dark brown",
+                    "The stone wall building is green"
+                ],
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a pixel art-style scene?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a stone wall building?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Does a gray stone wall building stand prominently?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": [
+                    "Does the video contain any segments where the stone wall building is gray?",
+                    "Does the video contain any segments where the stone wall building is dark brown?",
+                    "Does the video contain any segments where the stone wall building is green?"
+                ],
+                "Main Target Attribute Evolution_1": [
+                    "Does the color of the stone wall building transition from gray to dark brown? To judge this question, it must first be determined that the stone wall building's color is gray at a certain time and subsequently is dark brown, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the color of the stone wall building transition from dark brown to green? To judge this question, it must first be determined that the stone wall building's color is dark brown at a certain time and subsequently is green, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the pixel art-style scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the stone wall building undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "8": [
+        {
+            "prompt_gen": "In a workshop, a wooden table is placed in the middle of the scene. Suddenly, the wooden table changes from brown to white. Finally, the white table changes to black.",
+            "prompt_gen_list_extract": [
+                "In a workshop, a wooden table is placed in the middle of the scene.",
+                "The wooden table changes from brown to white.",
+                "The white table changes to black."
+            ],
+            "element_extract": {
+                "Scene Type": "workshop",
+                "Main Target Category": [
+                    "wooden table"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "A wooden table is placed in the middle of the scene",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": [
+                    "The wooden table is brown",
+                    "The wooden table is white",
+                    "The wooden table is black"
+                ],
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a workshop?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a wooden table?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Is the wooden table placed in the middle of the scene?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": [
+                    "Does the video contain any segments where the wooden table is brown?",
+                    "Does the video contain any segments where the wooden table is white?",
+                    "Does the video contain any segments where the wooden table is black?"
+                ],
+                "Main Target Attribute Evolution_1": [
+                    "Does the color of the wooden table transition from brown to white? To judge this question, it must first be determined that the wooden table is brown at a certain time and subsequently is white, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the color of the wooden table transition from white to black? To judge this question, it must first be determined that the wooden table is white at a certain time and subsequently is black, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the workshop scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the wooden table undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "Inside a transparent container, a clear ice cube rests quietly. Gradually, the ice cube changes from clear to cloudy. Finally, the ice cube melts into water.",
+            "prompt_gen_list_extract": [
+                "Inside a transparent container, a clear ice cube rests quietly.",
+                "The ice cube changes from clear to cloudy.",
+                "The ice cube melts into water."
+            ],
+            "element_extract": {
+                "Scene Type": "transparent container",
+                "Main Target Category": [
+                    "clear ice cube"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "a clear ice cube rests quietly inside the transparent container",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": [
+                    "The ice cube is clear",
+                    "The ice cube is cloudy",
+                    "The ice cube melts into water"
+                ],
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a transparent container?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a clear ice cube?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Is the clear ice cube resting quietly inside the transparent container?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": [
+                    "Does the video contain any segments where the ice cube is clear?",
+                    "Does the video contain any segments where the ice cube is cloudy?",
+                    "Does the video contain any segments where the ice cube melts into water?"
+                ],
+                "Main Target Attribute Evolution_1": [
+                    "Does the ice cube transition from clear to cloudy? To judge this question, it must first be determined that the ice cube is clear at a certain time and subsequently is cloudy, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the ice cube transition from cloudy to melting into water? To judge this question, it must first be determined that the ice cube is cloudy at a certain time and subsequently melts into water, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the transparent container scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the clear ice cube undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "7": [
+        {
+            "prompt_gen": "In a modern stadium, the running track is initially a vibrant red. Suddenly, the track changes from red to blue. Finally, the blue track changes to green.",
+            "prompt_gen_list_extract": [
+                "In a modern stadium, the running track is initially a vibrant red.",
+                "The track changes from red to blue.",
+                "The blue track changes to green."
+            ],
+            "element_extract": {
+                "Scene Type": "modern stadium",
+                "Main Target Category": [
+                    "running track"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "The running track is initially a vibrant red",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": [
+                    "The running track is vibrant red",
+                    "The running track is blue",
+                    "The running track is green"
+                ],
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a modern stadium?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a running track?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Is the running track initially vibrant red?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": [
+                    "Does the video contain any segments where the running track is vibrant red?",
+                    "Does the video contain any segments where the running track is blue?",
+                    "Does the video contain any segments where the running track is green?"
+                ],
+                "Main Target Attribute Evolution_1": [
+                    "Does the color of the running track transition from vibrant red to blue? To judge this question, it must first be determined that the running track's color is vibrant red at a certain time and subsequently is blue, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the color of the running track transition from blue to green? To judge this question, it must first be determined that the running track's color is blue at a certain time and subsequently is green, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the modern stadium scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the running track undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "1": [
+        {
+            "prompt_gen": "A yellowing leaf floats on the surface of the river. Gradually, the yellow leaf changes to green. Finally, the green leaf turns red.",
+            "prompt_gen_list_extract": [
+                "A yellowing leaf floats on the surface of the river.",
+                "The yellow leaf changes to green.",
+                "The green leaf turns red."
+            ],
+            "element_extract": {
+                "Scene Type": "river scene",
+                "Main Target Category": [
+                    "leaf"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "A yellowing leaf floats on the surface of the river",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": [
+                    "The leaf is yellow",
+                    "The leaf is green",
+                    "The leaf is red"
+                ],
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a river scene?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a leaf?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Is a yellowing leaf floating on the surface of the river?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": [
+                    "Does the video contain any segments where the leaf is yellow?",
+                    "Does the video contain any segments where the leaf is green?",
+                    "Does the video contain any segments where the leaf is red?"
+                ],
+                "Main Target Attribute Evolution_1": [
+                    "Does the color of the leaf transition from yellow to green? To judge this question, it must first be determined that the leaf's color is yellow at a certain time and subsequently is green, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the color of the leaf transition from green to red? To judge this question, it must first be determined that the leaf's color is green at a certain time and subsequently is red, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the river scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the leaf undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "In an underwater environment, there is a pink coral reef. Gradually, the color of the coral reef changes from pink to blue. Finally, the blue coral reef turns yellow.",
+            "prompt_gen_list_extract": [
+                "In an underwater environment, there is a pink coral reef.",
+                "Gradually, the color of the coral reef changes to blue.",
+                "Finally, the blue coral reef turns yellow."
+            ],
+            "element_extract": {
+                "Scene Type": "underwater environment",
+                "Main Target Category": [
+                    "coral reef"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "There is a pink coral reef",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": [
+                    "The coral reef is pink",
+                    "The coral reef is blue",
+                    "The coral reef is yellow"
+                ],
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in an underwater environment?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a coral reef?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Is there a pink coral reef?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": [
+                    "Does the video contain any segments where the coral reef is pink?",
+                    "Does the video contain any segments where the coral reef is blue?",
+                    "Does the video contain any segments where the coral reef is yellow?"
+                ],
+                "Main Target Attribute Evolution_1": [
+                    "Does the coral reef transition from pink to blue? To judge this question, it must first be determined that the coral reef is pink at a certain time and subsequently is blue, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the coral reef transition from blue to yellow? To judge this question, it must first be determined that the coral reef is blue at a certain time and subsequently is yellow, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the underwater environment scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the coral reef undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "3": [
+        {
+            "prompt_gen": "On a restaurant terrace, a wooden staircase leads to the interior. Gradually, the wooden staircase changes to a marble staircase. Finally, the marble staircase changes to a glass staircase.",
+            "prompt_gen_list_extract": [
+                "On a restaurant terrace, a wooden staircase leads to the interior.",
+                "Gradually, the wooden staircase changes to a marble staircase.",
+                "Finally, the marble staircase changes to a glass staircase."
+            ],
+            "element_extract": {
+                "Scene Type": "restaurant terrace",
+                "Main Target Category": [
+                    "staircase"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "A wooden staircase leads to the interior on a restaurant terrace",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": [
+                    "The staircase is wooden",
+                    "The staircase is marble",
+                    "The staircase is glass"
+                ],
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place on a restaurant terrace?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a staircase?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Does a wooden staircase lead to the interior on a restaurant terrace?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": [
+                    "Does the video contain any segments where the staircase is wooden?",
+                    "Does the video contain any segments where the staircase is marble?",
+                    "Does the video contain any segments where the staircase is glass?"
+                ],
+                "Main Target Attribute Evolution_1": [
+                    "Does the material of the staircase transition from wood to marble? To judge this question, it must first be determined that the staircase is wooden at a certain time and subsequently becomes marble, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the material of the staircase transition from marble to glass? To judge this question, it must first be determined that the staircase is marble at a certain time and subsequently becomes glass, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the restaurant terrace scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the staircase undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "In a family kitchen, a wooden tray sits on the countertop. Suddenly, the wooden tray changes from brown to white. Finally, the tray changes from white to black.",
+            "prompt_gen_list_extract": [
+                "In a family kitchen, a wooden tray sits on the countertop.",
+                "The wooden tray changes to white.",
+                "The tray changes to black."
+            ],
+            "element_extract": {
+                "Scene Type": "family kitchen",
+                "Main Target Category": [
+                    "wooden tray",
+                    "countertop"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "A wooden tray sits on the countertop",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": [
+                    "The tray is wooden",
+                    "The tray is white",
+                    "The tray is black"
+                ],
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a family kitchen?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a wooden tray?",
+                    "Does the scene feature a countertop?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Does a wooden tray sit on the countertop?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": [
+                    "Does the video contain any segments where the tray is wooden?",
+                    "Does the video contain any segments where the tray is white?",
+                    "Does the video contain any segments where the tray is black?"
+                ],
+                "Main Target Attribute Evolution_1": [
+                    "Does the tray transition from wooden to white? To judge this question, it must first be determined that the tray is wooden at a certain time and subsequently is white, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the tray transition from white to black? To judge this question, it must first be determined that the tray is white at a certain time and subsequently is black, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the family kitchen scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the wooden tray undergo abnormal deformation over time?",
+                    "Does the countertop undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "2": [
+        {
+            "prompt_gen": "The scene showcases a statue made of stone, standing on a grassy field. Suddenly, the material of the statue changes from stone to bronze. Finally, the material of the statue transforms from bronze to glass.",
+            "prompt_gen_list_extract": [
+                "The scene showcases a statue made of stone, standing on a grassy field.",
+                "Suddenly, the material of the statue changes from stone to bronze.",
+                "Finally, the material of the statue transforms from bronze to glass."
+            ],
+            "element_extract": {
+                "Scene Type": "grassy field",
+                "Main Target Category": [
+                    "statue"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "A statue made of stone is standing on a grassy field",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": [
+                    "The statue is made of stone",
+                    "The statue is made of bronze",
+                    "The statue is made of glass"
+                ],
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a grassy field?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a statue?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Is the statue made of stone standing on a grassy field?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": [
+                    "Does the video contain any segments where the statue is made of stone?",
+                    "Does the video contain any segments where the statue is made of bronze?",
+                    "Does the video contain any segments where the statue is made of glass?"
+                ],
+                "Main Target Attribute Evolution_1": [
+                    "Does the material of the statue transition from stone to bronze? To judge this question, it must first be determined that the statue is made of stone at a certain time and subsequently is made of bronze, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the material of the statue transition from bronze to glass? To judge this question, it must first be determined that the statue is made of bronze at a certain time and subsequently is made of glass, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the grassy field scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the statue undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "9": [
+        {
+            "prompt_gen": "In a modern laboratory, a square silver metal plate rests quietly on a workbench. Gradually, the color of the metal plate changes from silver to gold. Finally, the square gold metal plate transforms into a circular gold metal plate.",
+            "prompt_gen_list_extract": [
+                "In a modern laboratory, a square silver metal plate rests quietly on a workbench.",
+                "The color of the metal plate changes to gold.",
+                "The square gold metal plate transforms into a circular gold metal plate."
+            ],
+            "element_extract": {
+                "Scene Type": "modern laboratory",
+                "Main Target Category": [
+                    "square silver metal plate",
+                    "workbench"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "A square silver metal plate rests quietly on a workbench",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": [
+                    "The metal plate is silver",
+                    "The metal plate is gold",
+                    "The metal plate is a circular gold plate"
+                ],
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a modern laboratory?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a square silver metal plate?",
+                    "Does the scene feature a workbench?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Is the square silver metal plate resting quietly on a workbench?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": [
+                    "Does the video contain any segments where the metal plate is silver?",
+                    "Does the video contain any segments where the metal plate is gold?",
+                    "Does the video contain any segments where the metal plate is a circular gold plate?"
+                ],
+                "Main Target Attribute Evolution_1": [
+                    "Does the metal plate transition from silver to gold? To judge this question, it must first be determined that the metal plate is silver at a certain time and subsequently is gold, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the metal plate transition from gold to a circular gold plate? To judge this question, it must first be determined that the metal plate is gold at a certain time and subsequently is a circular gold plate, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the modern laboratory scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the square silver metal plate undergo abnormal deformation over time?",
+                    "Does the workbench undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "10": [
+        {
+            "prompt_gen": "In a recording studio, a silver microphone rests quietly on a table. Suddenly, the color of the microphone changes from silver to black. Finally, the black microphone turns to gold.",
+            "prompt_gen_list_extract": [
+                "In a recording studio, a silver microphone rests quietly on a table.",
+                "The color of the microphone changes to black.",
+                "The black microphone turns to gold."
+            ],
+            "element_extract": {
+                "Scene Type": "recording studio",
+                "Main Target Category": [
+                    "silver microphone",
+                    "table"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "A silver microphone rests quietly on a table",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": [
+                    "The silver microphone is resting",
+                    "The microphone is black",
+                    "The microphone is gold"
+                ],
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a recording studio?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a silver microphone?",
+                    "Does the scene feature a table?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Is the silver microphone resting quietly on a table?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": [
+                    "Does the video contain any segments where the silver microphone is resting?",
+                    "Does the video contain any segments where the microphone is black?",
+                    "Does the video contain any segments where the microphone is gold?"
+                ],
+                "Main Target Attribute Evolution_1": [
+                    "Does the color of the microphone transition from resting to black? To judge this question, it must first be determined that the microphone's color is resting at a certain time and subsequently is black, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the color of the microphone transition from black to gold? To judge this question, it must first be determined that the microphone's color is black at a certain time and subsequently is gold, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the recording studio scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the silver microphone undergo abnormal deformation over time?",
+                    "Does the table undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "5": [
+        {
+            "prompt_gen": "A black telephone pole stands by the roadside. Gradually, the color of the telephone pole changes to green. Finally, the green telephone pole turns red.",
+            "prompt_gen_list_extract": [
+                "A black telephone pole stands by the roadside.",
+                "Gradually, the color of the telephone pole changes to green.",
+                "Finally, the green telephone pole turns red."
+            ],
+            "element_extract": {
+                "Scene Type": "roadside",
+                "Main Target Category": [
+                    "telephone pole"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "A black telephone pole stands by the roadside",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": [
+                    "The telephone pole is black",
+                    "The telephone pole is green",
+                    "The telephone pole is red"
+                ],
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place by the roadside?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a telephone pole?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Is the black telephone pole standing by the roadside?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": [
+                    "Does the video contain any segments where the telephone pole is black?",
+                    "Does the video contain any segments where the telephone pole is green?",
+                    "Does the video contain any segments where the telephone pole is red?"
+                ],
+                "Main Target Attribute Evolution_1": [
+                    "Does the color of the telephone pole transition from black to green? To judge this question, it must first be determined that the telephone pole's color is black at a certain time and subsequently is green, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the color of the telephone pole transition from green to red? To judge this question, it must first be determined that the telephone pole's color is green at a certain time and subsequently is red, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the roadside scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the telephone pole undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "16": [
+        {
+            "prompt_gen": "In a dense pine forest, the trees are covered with lush green leaves. Gradually, all the leaves change from green to red. Finally, the color of the leaves transitions from red to yellow.",
+            "prompt_gen_list_extract": [
+                "In a dense pine forest, the trees are covered with lush green leaves.",
+                "All the leaves change to red.",
+                "The color of the leaves transitions to yellow."
+            ],
+            "element_extract": {
+                "Scene Type": "dense pine forest",
+                "Main Target Category": [
+                    "trees"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "The trees are covered with lush green leaves",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": [
+                    "The leaves are lush green",
+                    "The leaves are red",
+                    "The leaves are yellow"
+                ],
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a dense pine forest?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature trees?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Are the trees covered with lush green leaves?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": [
+                    "Does the video contain any segments where the leaves are lush green?",
+                    "Does the video contain any segments where the leaves are red?",
+                    "Does the video contain any segments where the leaves are yellow?"
+                ],
+                "Main Target Attribute Evolution_1": [
+                    "Do the leaves transition from lush green to red? To judge this question, it must first be determined that the leaves are lush green at a certain time and subsequently are red, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Do the leaves transition from red to yellow? To judge this question, it must first be determined that the leaves are red at a certain time and subsequently are yellow, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the dense pine forest scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the trees undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "6": [
+        {
+            "prompt_gen": "A blue car is driving on the highway. Suddenly, the color of the car changes from blue to green. Finally, the car's color shifts to red.",
+            "prompt_gen_list_extract": [
+                "A blue car is driving on the highway.",
+                "The color of the car changes to green.",
+                "The car's color shifts to red."
+            ],
+            "element_extract": {
+                "Scene Type": "highway",
+                "Main Target Category": [
+                    "car"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "A blue car is driving on the highway",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": [
+                    "The car is blue",
+                    "The car is green",
+                    "The car is red"
+                ],
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place on a highway?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a car?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Is a blue car driving on the highway?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": [
+                    "Does the video contain any segments where the car is blue?",
+                    "Does the video contain any segments where the car is green?",
+                    "Does the video contain any segments where the car is red?"
+                ],
+                "Main Target Attribute Evolution_1": [
+                    "Does the car transition from blue to green? To judge this question, it must first be determined that the car is blue at a certain time and subsequently is green, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the car transition from green to red? To judge this question, it must first be determined that the car is green at a certain time and subsequently is red, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the highway scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the car undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "14": [
+        {
+            "prompt_gen": "In a grand palace setting, the palace walls are initially painted purple. Gradually, the color of the walls changes from purple to gold. Finally, the walls change from gold to white.",
+            "prompt_gen_list_extract": [
+                "In a grand palace setting, the palace walls are initially painted purple.",
+                "The color of the walls changes to gold.",
+                "The walls change to white."
+            ],
+            "element_extract": {
+                "Scene Type": "grand palace setting",
+                "Main Target Category": [
+                    "palace walls"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "The palace walls are initially painted purple",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": [
+                    "The palace walls are purple",
+                    "The palace walls are gold",
+                    "The palace walls are white"
+                ],
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a grand palace setting?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature palace walls?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Are the palace walls initially painted purple?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": [
+                    "Does the video contain any segments where the palace walls are purple?",
+                    "Does the video contain any segments where the palace walls are gold?",
+                    "Does the video contain any segments where the palace walls are white?"
+                ],
+                "Main Target Attribute Evolution_1": [
+                    "Do the palace walls transition from purple to gold? To judge this question, it must first be determined that the palace walls are purple at a certain time and subsequently are gold, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Do the palace walls transition from gold to white? To judge this question, it must first be determined that the palace walls are gold at a certain time and subsequently are white, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the grand palace setting scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the palace walls undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "4": [
+        {
+            "prompt_gen": "In a transparent display case, a gold ring is placed inside. Suddenly, the color of the ring changes from gold to silver. Finally, the ring's color shifts from silver to blue.",
+            "prompt_gen_list_extract": [
+                "In a transparent display case, a gold ring is placed inside.",
+                "Suddenly, the color of the ring changes from gold to silver.",
+                "The ring's color shifts from silver to blue."
+            ],
+            "element_extract": {
+                "Scene Type": "transparent display case",
+                "Main Target Category": [
+                    "a gold ring"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "a gold ring is placed inside a transparent display case",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": [
+                    "The ring is gold",
+                    "The ring is silver",
+                    "The ring is blue"
+                ],
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a transparent display case?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a gold ring?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Is the gold ring placed inside a transparent display case?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": [
+                    "Does the video contain any segments where the ring is gold?",
+                    "Does the video contain any segments where the ring is silver?",
+                    "Does the video contain any segments where the ring is blue?"
+                ],
+                "Main Target Attribute Evolution_1": [
+                    "Does the color of the ring transition from gold to silver? To judge this question, it must first be determined that the ring is gold at a certain time and subsequently is silver, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'.",
+                    "Does the color of the ring transition from silver to blue? To judge this question, it must first be determined that the ring is silver at a certain time and subsequently is blue, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the transparent display case scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the gold ring undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+1. **Case 1:**
+    - **Input:**
+        - Scene: Country Road
+        - Target: Shrubbery
+        - TNA count: 4
+        - Reason for TNA change: Scene attribute changes
+    - **Output:**
+        ```
+        At noon, Country Road is at the center of the scene, flanked by dense shrubbery. Suddenly, the sky starts to rain, and rain envelops the entire scene. Then, snowflakes start to fall, covering the entire ground. Finally, the snowflakes dissipate, and the sky clears, brightening the entire scene.
+        ```
+
+2. **Case 2:**
+    - **Input:**
+        - Scene: Bedroom
+        - Target: Teddy Bear
+        - TNA count: 4
+        - Reason for TNA change: Scene attribute changes
+    - **Output:**
+        ```
+        In a clean, bright bedroom, a double bed is arranged on one side. Suddenly, the room's lights flicker, causing the entire space to pulse between light and shadow. Then, red lights turn on, enveloping the entire scene in red. Finally, the red lights fade, leaving the scene dimly illuminated by faint blue lights.
+        ```
+
+3. **Case 3:**
+    - **Input:**
+        - Scene: Festive Feast
+        - Target: Indoor Room
+        - TNA count: 4
+        - Reason for TNA change: Scene attribute changes
+    - **Output:**
+        ```
+        In a lively festive feast, the joyful atmosphere pervades the room. Suddenly, the lights dim, engulfing the entire room in shadow. Then, colorful flashes start to illuminate the room, creating a dazzling scene. Finally, a confetti shower falls, covering the entire room.
+        ```
+
+4. **Case 4:**
+    - **Input:**
+        - Scene: Prairie
+        - Target: Grass
+        - TNA count: 4
+        - Reason for TNA change: Scene attribute changes
+    - **Output:**
+        ```
+        The scene showcases a vibrant spring prairie covered with green grass. Then, the scene transitions to autumn, with the grass turning slightly yellow and the overall scene appearing amber. Next, a winter scene is displayed, with snowflakes covering the prairie. Finally, the spring scene is slowly restored, with the prairie again covered with green grass.
+        ```

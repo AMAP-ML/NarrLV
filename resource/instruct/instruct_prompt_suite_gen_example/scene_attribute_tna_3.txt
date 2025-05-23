@@ -1,0 +1,21 @@
+1. **Case 1:**
+    - **Input:**
+        - Scene: Country Road
+        - Target: Shrubbery
+        - TNA count: 3
+        - Reason for TNA change: Scene attribute changes
+    - **Output:**
+        ```
+        At noon, country Road is at the center of the scene, flanked by dense shrubbery. Suddenly, the sky starts to rain, and rain envelops the entire scene. Then, snowflakes start to fall, covering the entire ground.
+        ```
+
+2. **Case 2:**
+    - **Input:**
+        - Scene: Bedroom
+        - Target: Teddy Bear
+        - TNA count: 3
+        - Reason for TNA change: Scene attribute changes
+    - **Output:**
+        ```
+        In a clean, bright bedroom, a double bed is arranged on one side. Suddenly, the room's lights flicker, causing the entire space to pulse between light and shadow. Finally, red lights turn on, enveloping the entire scene in red.
+        ```

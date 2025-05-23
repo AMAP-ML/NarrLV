@@ -1,0 +1,32 @@
+1. Case1:
+   - **Input:**
+     - Scene: Living Room
+     - Target: Sofa
+     - TNA count: 4
+     - Reason for TNA change: Target action change
+   - **Output:**
+     ```
+     In a bright living room, a sofa is placed centrally while a cat prowls underneath it. Suddenly, the cat leaps onto the sofa. Next, the cat lies down on the sofa to rest. Finally, the cat jumps off the sofa onto the floor again.
+     ```
+
+2. Case2:
+   - **Input:**
+     - Scene: Street
+     - Target: Cyclist
+     - TNA count: 4
+     - Reason for TNA change: Target action change
+   - **Output:**
+     ```
+     Under a clear blue sky, a cyclist rides along the street. The cyclist then stops at the edge of the street. Next, the cyclist dismounts the bicycle. Finally, the person pushes the bicycle along the sidewalk.
+     ```
+
+3. Case3:
+   - **Input:**
+     - Scene: Forest
+     - Target: Man
+     - TNA count: 4
+     - Reason for TNA change: Target action change
+   - **Output:**
+     ```
+     In a sunny forest beneath the bright blue sky, a man carrying a backpack is leisurely walking. Then, he stops walking. Next, the man takes a water bottle out of his backpack. Finally, the man starts drinking the water.
+     ```

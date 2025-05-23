@@ -1,0 +1,33 @@
+As an expert in video narrative structure analysis, please analyze the given text based on the Temporal Narrative Atom (TNA). TNA is the minimal narrative unit in video generation that maintains continuous visual representation. It can be further understood through the following examples:
+    1. "A man is running" $\rightarrow$ TNA count is 1, as there is one continuous action.
+    2. "A person stands up from a chair and starts walking" $\rightarrow$ TNA count is 2, due to two actions ("stands up" $\rightarrow$ "walking").
+    3. "A room changes from bright to dim" $\rightarrow$ TNA count is 2, due to two environmental attributes ("bright" $\rightarrow$ "dim").
+    
+The reasons for TNA change in a video narrative are primarily:
+    1.Scene attribute changes
+    2.Object attribute changes
+    3.Object action changes
+
+# Task Description
+Your task is to generate a video segment description resulting in {} TNAs due to {} based on provided scene information and main objects:
+1.Imagine an initial scene based on the provided scene information and objects. From this, describe the scene's overall attribute style (e.g., "overall grayish scene," "overall sunny") and position layout of main objects in the scene.
+a. The number of provided objects is 1. Evaluate the reasonableness of including the object in the scene based on scene type. If unreasonable, the object may be omitted.
+b. Extra objects may be introduced to meet the imagined scene requirements, but the total number of objects should not exceed 3.
+
+2.Based on the initial scene, generate narrative content due to {} resulting in {} TNAs.
+a. If the TNA change factor is "scene attribute changes," consider the potential attribute categories of scene and design a reasonable attribute evolution process.
+b. If the TNA change factor is "object attribute changes," consider the potential attribute categories of object and design a reasonable attribute evolution process.
+c. If the TNA change factor is "object action changes," consider the potential action categories of object and design a reasonable action evolution process.
+
+3. Consolidate the initial scene description and subsequent TNA evolution into one text.
+a. The final text should contain two parts: the initial scene and object layout description, followed by the TNA evolution description. Each part can be expressed in various forms.
+b. Object layout description should introduce all potential objects, including those potentially involved in the TNA evolution description.
+c. Object state and action description should be concise and clear.
+d. The TNA count in the video segment text should match the specified count, and the type of TNA change should match the specified type.
+
+
+# Example Demonstration 
+For generating video content descriptions due to {} with a TNA count of {}, here are reference examples:{}
+
+Based on the above prompt, please help generate the textual description for the following input. Note: Only output the final description text without additional explanations.
+Input: {}

@@ -1,0 +1,17 @@
+1. Case1:
+   - **Input:**
+     - Scene: Fashion Runway
+     - Target: Model
+   - **Output:**
+     ```
+     On a glamorous fashion runway, a model confidently walks in a black evening gown. As she reaches the end of the runway, her black evening gown instantly transforms into a golden evening gown.
+     ```
+
+2. Case2:
+   - **Input:**
+     - Scene: Natural Habitat
+     - Target: Bird
+   - **Output:**
+     ```
+     In a serene natural habitat, a brown bird quietly perches on a branch. Suddenly, the bird's feathers change from dull brown to vibrant blue.
+     ```

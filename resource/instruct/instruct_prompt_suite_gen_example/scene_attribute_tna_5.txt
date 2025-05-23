@@ -1,0 +1,43 @@
+1. **Case 1:**
+    - **Input:**
+        - Scene: Country Road
+        - Target: Shrubbery
+        - TNA count: 5
+        - Reason for TNA change: Scene attribute changes
+    - **Output:**
+        ```
+        At noon, the sun shines brightly as a country road runs through the center of the scene, flanked by dense bushes on both sides. Suddenly, the sky begins to rain, enveloping the entire scene in rainwater. Then, snowflakes start to fall, covering the ground. Shortly after, the snow gradually melts away, the sky clears up, and the entire scene becomes bright. Finally, night falls, and the whole scene is shrouded in a dark atmosphere.
+        ```
+
+2. **Case 2:**
+    - **Input:**
+        - Scene: Bedroom
+        - Target: Teddy Bear
+        - TNA count: 5
+        - Reason for TNA change: Scene attribute changes
+    - **Output:**
+        ```
+        In a clean bedroom, a double bed is placed on one side, and bright white light illuminates the entire room. Suddenly, the lights in the room flicker, creating a dimming effect throughout the space. Then, red lights turn on, casting the entire scene in a red hue. Following that, the red light gradually shifts to blue. Finally, only a faint green light illuminates the scene.
+        ```
+
+3. **Case 3:**
+    - **Input:**
+        - Scene: Festive Feast
+        - Target: Indoor Room
+        - TNA count: 5
+        - Reason for TNA change: Scene attribute changes
+    - **Output:**
+        ```
+        At a lively festive celebration, warm and soft yellow lights illuminate the entire room. Suddenly, the lights dim, throwing the whole room into shadow. Then, colorful flashes begin to light up the room, creating a dazzling scene. Shortly after, the warm and soft yellow light shines once again. Finally, multicolored confetti falls like rain, covering the entire room.
+        ```
+
+4. **Case 4:**
+    - **Input:**
+        - Scene: Prairie
+        - Target: Grass
+        - TNA count: 5
+        - Reason for TNA change: Scene attribute changes
+    - **Output:**
+        ```
+        The scene showcases a vibrant spring meadow, covered with green grass. Then, the scene transitions to autumn, where the grass turns slightly yellow, and the overall setting takes on an amber hue. Next, a winter scene is displayed, with snow covering the meadow. After that, the snow melts, revealing bare grass. Finally, the scene gradually returns to spring, with the meadow once again covered in green grass.
+        ```

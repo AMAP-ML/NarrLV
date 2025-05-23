@@ -1,0 +1,21 @@
+1. Case1:
+   - **Input:**
+     - Scene: Undersea
+     - Target: Coral
+     - TNA count: 3
+     - Reason for TNA change: Target action change
+   - **Output:**
+     ```
+     In the tranquil undersea world, vibrant corals spread out with a sea turtle hovering just above. Initially, the sea turtle slowly descends toward the corals. Then, the turtle stops and rests on a coral. Finally, the turtle starts swimming upwards.
+     ```
+
+2. Case2:
+   - **Input:**
+     - Scene: Bench
+     - Target: Person
+     - TNA count: 3
+     - Reason for TNA change: Target action change
+   - **Output:**
+     ```
+     In the gentle afternoon sunlight, a person sits quietly on a bench, reading a book. Then, the person puts the book away. Finally, the person stands up from the bench.
+     ```

@@ -1,0 +1,26 @@
+1. Case1:
+   - **Input:**
+     - Scene: Bedroom
+     - Target: Headphones
+   - **Output:**
+     ```
+     In a bedroom, a pair of red headphones sits on the desk. Suddenly, the headphones change from red to green. Finally, the headphones change from green to yellow.
+     ```
+
+2. Case2:
+   - **Input:**
+     - Scene: Living Room
+     - Target: Cup
+   - **Output:**
+     ```
+     In a living room, a transparent cup sits on the central table. Suddenly, the cup changes from transparent to a ceramic cup. Finally, the ceramic cup changes back to a transparent cup.
+     ```
+
+3. Case3:
+   - **Input:**
+     - Scene: Award Ceremony
+     - Target: Man
+   - **Output:**
+     ```
+     On an award ceremony stage, a man wearing a black suit stands on the stage. Gradually, his black suit changes to a gray suit. Finally, his gray suit changes to blue.
+     ```

@@ -1,0 +1,19 @@
+1. Case1:
+   - **Input:**
+     - Scene: Fashion Runway
+     - Target: Model
+     - TNA count: 1
+   - **Output:**
+     ```
+     On a glamorous fashion runway, a model walks in a black evening gown.
+     ```
+
+2. Case2:
+   - **Input:**
+     - Scene: Natural Habitat
+     - Target: Bird
+     - TNA count: 1
+   - **Output:**
+     ```
+     In a serene natural habitat, a brown bird quietly perches on a branch.
+     ```

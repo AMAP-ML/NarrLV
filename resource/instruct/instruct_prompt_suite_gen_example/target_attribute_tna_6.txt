@@ -1,0 +1,43 @@
+1. Case1:
+   - **Input:**
+     - Scene: Bedroom
+     - Target: Headphones
+     - TNA count: 6
+     - Reason for TNA change: Target attribute change
+   - **Output:**
+     ```
+     In a bedroom, a pair of red headphones sits quietly on the table. Suddenly, the color of the headphones changes from red to green. Next, the headphones shift their color from green to white. Then, the headphones change from white to yellow. After that, the headphones change from yellow to russet brown. Finally, the headphones transition from russet brown to black.
+     ```
+
+2. Case2:
+   - **Input:**
+     - Scene: Living Room
+     - Target: Cup
+     - TNA count: 6
+     - Reason for TNA change: Target attribute change
+   - **Output:**
+     ```
+     In a living room, a wooden staircase is displayed before us. Gradually, the wooden staircase transforms into marble. Next, the marble staircase changes into glass. Then, the glass staircase turns into an iron staircase. After that, the iron staircase reverts back to the original wooden staircase. Finally, the wooden staircase deteriorates into a decayed and ruined state.
+     ```
+
+3. Case3:
+   - **Input:**
+     - Scene: Track Field
+     - Target: Running Track
+     - TNA count: 6
+     - Reason for TNA change: Target attribute change
+   - **Output:**
+     ```
+     On a track field, the running track is initially bright red. Suddenly, the track's color changes from red to blue. Then, the blue track transitions to green. Next, the green track changes to yellow. After that, the track's color shifts from yellow to white. Finally, the track's color changes from white to black.
+     ```
+
+4. Case4:
+   - **Input:**
+     - Scene: Community health center
+     - Target: Woman
+     - TNA count: 6
+     - Reason for TNA change: Target attribute change
+   - **Output:**
+     ```
+     In a community health center, a woman sits in the waiting area. She has black hair and is wearing a blue dress and white sneakers. Suddenly, her hair color changes from black to red. Next, her outfit transforms from a blue dress to green. Then, her shoes go from white sneakers to black high heels. Afterwards, her black high heels change to red high heels. Finally, her green dress turns red.
+     ```

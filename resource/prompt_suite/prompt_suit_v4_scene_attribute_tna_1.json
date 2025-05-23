@@ -1,0 +1,1064 @@
+{
+    "15": [
+        {
+            "prompt_gen": "In a picturesque setting, surrounded by verdant hills and vibrant flowers, a plush bear stands among the blossoms.",
+            "prompt_gen_list_extract": [
+                "In a picturesque setting, surrounded by verdant hills and vibrant flowers, a plush bear stands among the blossoms."
+            ],
+            "element_extract": {
+                "Scene Type": "picturesque setting",
+                "Main Target Category": [
+                    "verdant hills",
+                    "vibrant flowers",
+                    "plush bear"
+                ],
+                "Initial Scene Attributes": "picturesque",
+                "Main Target Layout": "a plush bear stands among the blossoms.",
+                "Scene Attribute Evolution": [
+                    "picturesque"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a picturesque setting?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature verdant hills?",
+                    "Does the scene feature vibrant flowers?",
+                    "Does the scene feature a plush bear?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being picturesque?"
+                ],
+                "Main Target Layout": [
+                    "Is the plush bear positioned among the blossoms?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that are picturesque?"
+                ],
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the picturesque setting scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the verdant hills undergo abnormal deformation over time?",
+                    "Do the vibrant flowers undergo abnormal deformation over time?",
+                    "Does the plush bear undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "In a well-lit virtual supermarket, the shelves are neatly stocked with a variety of items.",
+            "prompt_gen_list_extract": [
+                "In a well-lit virtual supermarket, the shelves are neatly stocked with a variety of items."
+            ],
+            "element_extract": {
+                "Scene Type": "virtual supermarket",
+                "Main Target Category": [
+                    "shelves",
+                    "variety of items"
+                ],
+                "Initial Scene Attributes": "well-lit",
+                "Main Target Layout": "the shelves are neatly stocked with a variety of items.",
+                "Scene Attribute Evolution": [
+                    "well-lit"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a virtual supermarket?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature shelves?",
+                    "Does the scene feature a variety of items?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being well-lit?"
+                ],
+                "Main Target Layout": [
+                    "Are the shelves neatly stocked with a variety of items?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that are well-lit?"
+                ],
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the virtual supermarket scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the shelves undergo abnormal deformation over time?",
+                    "Does the variety of items undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "5": [
+        {
+            "prompt_gen": "In a well-lit showroom of a car dealership, various cars are displayed in an organized layout, shining under the bright lights.",
+            "prompt_gen_list_extract": [
+                "In a well-lit showroom of a car dealership, various cars are displayed in an organized layout, shining under the bright lights."
+            ],
+            "element_extract": {
+                "Scene Type": "showroom of a car dealership",
+                "Main Target Category": [
+                    "various cars"
+                ],
+                "Initial Scene Attributes": "well-lit",
+                "Main Target Layout": "various cars are displayed in an organized layout, shining under the bright lights.",
+                "Scene Attribute Evolution": [
+                    "well-lit"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in the showroom of a car dealership?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature various cars?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being well-lit?"
+                ],
+                "Main Target Layout": [
+                    "Are various cars displayed in an organized layout, shining under the bright lights?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that are well-lit?"
+                ],
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the showroom of a car dealership scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the various cars undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "In a cozy family home, the living room is warmly lit, with comfortable furniture arranged around a fireplace.",
+            "prompt_gen_list_extract": [
+                "In a cozy family home, the living room is warmly lit, with comfortable furniture arranged around a fireplace."
+            ],
+            "element_extract": {
+                "Scene Type": "cozy family home",
+                "Main Target Category": [
+                    "comfortable furniture",
+                    "fireplace"
+                ],
+                "Initial Scene Attributes": "warmly lit",
+                "Main Target Layout": "comfortable furniture arranged around a fireplace.",
+                "Scene Attribute Evolution": [
+                    "warmly lit"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a cozy family home?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature comfortable furniture?",
+                    "Does the scene feature a fireplace?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being warmly lit?"
+                ],
+                "Main Target Layout": [
+                    "Is the comfortable furniture arranged around a fireplace?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that are warmly lit?"
+                ],
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the cozy family home scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the comfortable furniture undergo abnormal deformation over time?",
+                    "Does the fireplace undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "9": [
+        {
+            "prompt_gen": "On a sunny day, a clean blackboard is placed at the front of the classroom.",
+            "prompt_gen_list_extract": [
+                "On a sunny day, a clean blackboard is placed at the front of the classroom."
+            ],
+            "element_extract": {
+                "Scene Type": "classroom",
+                "Main Target Category": [
+                    "a clean blackboard"
+                ],
+                "Initial Scene Attributes": "sunny",
+                "Main Target Layout": "a clean blackboard is placed at the front of the classroom.",
+                "Scene Attribute Evolution": [
+                    "sunny"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a classroom?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a clean blackboard?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being sunny?"
+                ],
+                "Main Target Layout": [
+                    "Is the clean blackboard positioned at the front of the classroom?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that are sunny?"
+                ],
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the classroom scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the clean blackboard undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "12": [
+        {
+            "prompt_gen": "In a warm, sunlit courtyard, the center is paved with cobblestones, surrounded by lush greenery.",
+            "prompt_gen_list_extract": [
+                "In a warm, sunlit courtyard, the center is paved with cobblestones, surrounded by lush greenery."
+            ],
+            "element_extract": {
+                "Scene Type": "warm, sunlit courtyard",
+                "Main Target Category": [
+                    "cobblestones",
+                    "lush greenery"
+                ],
+                "Initial Scene Attributes": "warm sunlight",
+                "Main Target Layout": "The center is paved with cobblestones, surrounded by lush greenery.",
+                "Scene Attribute Evolution": [
+                    "warm sunlight"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a warm, sunlit courtyard?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature cobblestones?",
+                    "Does the scene feature lush greenery?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by warm sunlight?"
+                ],
+                "Main Target Layout": [
+                    "Is the center paved with cobblestones, surrounded by lush greenery?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments with warm sunlight?"
+                ],
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the warm, sunlit courtyard scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the cobblestones undergo abnormal deformation over time?",
+                    "Does the lush greenery undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "2": [
+        {
+            "prompt_gen": "In a golden sunset, the strawberry field stretches out expansively, with rows of ripe strawberries catching the light.",
+            "prompt_gen_list_extract": [
+                "In a golden sunset, the strawberry field stretches out expansively, with rows of ripe strawberries catching the light."
+            ],
+            "element_extract": {
+                "Scene Type": "strawberry field",
+                "Main Target Category": [
+                    "rows of ripe strawberries"
+                ],
+                "Initial Scene Attributes": "golden sunset",
+                "Main Target Layout": "rows of ripe strawberries catching the light.",
+                "Scene Attribute Evolution": [
+                    "golden sunset"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a strawberry field?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature rows of ripe strawberries?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by a golden sunset?"
+                ],
+                "Main Target Layout": [
+                    "Are the rows of ripe strawberries catching the light?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that show a golden sunset?"
+                ],
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the strawberry field scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the rows of ripe strawberries undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "```\nAt the entrance of a serene garden, lush greenery flanks the path, creating a vibrant and inviting atmosphere.\n```",
+            "prompt_gen_list_extract": [
+                "```\nAt the entrance of a serene garden, lush greenery flanks the path, creating a vibrant and inviting atmosphere.\n```"
+            ],
+            "element_extract": {
+                "Scene Type": "serene garden",
+                "Main Target Category": [
+                    "lush greenery"
+                ],
+                "Initial Scene Attributes": "vibrant and inviting",
+                "Main Target Layout": "lush greenery flanks the path at the entrance",
+                "Scene Attribute Evolution": [
+                    "vibrant and inviting"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a serene garden?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature lush greenery?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being vibrant and inviting?"
+                ],
+                "Main Target Layout": [
+                    "Is the lush greenery positioned flanking the path at the entrance?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that are vibrant and inviting?"
+                ],
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the serene garden scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the lush greenery undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "4": [
+        {
+            "prompt_gen": "```\nIn a well-lit toy store, shelves are filled with a variety of colorful dolls and toys neatly arranged and organized.\n```",
+            "prompt_gen_list_extract": [
+                "```\nIn a well-lit toy store, shelves are filled with a variety of colorful dolls and toys neatly arranged and organized.\n```"
+            ],
+            "element_extract": {
+                "Scene Type": "toy store",
+                "Main Target Category": [
+                    "shelves",
+                    "colorful dolls and toys"
+                ],
+                "Initial Scene Attributes": "well-lit",
+                "Main Target Layout": "shelves filled with a variety of colorful dolls and toys neatly arranged and organized.",
+                "Scene Attribute Evolution": [
+                    "well-lit"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a toy store?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature shelves?",
+                    "Does the scene feature colorful dolls and toys?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being well-lit?"
+                ],
+                "Main Target Layout": [
+                    "Are the shelves filled with a variety of colorful dolls and toys neatly arranged and organized?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that are well-lit?"
+                ],
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the toy store scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the shelves undergo abnormal deformation over time?",
+                    "Do the colorful dolls and toys undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "In a quaint, cozy bookstore, wooden shelves filled with various books are neatly arranged alongside well-worn armchairs.",
+            "prompt_gen_list_extract": [
+                "In a quaint, cozy bookstore, wooden shelves filled with various books are neatly arranged alongside well-worn armchairs."
+            ],
+            "element_extract": {
+                "Scene Type": "quaint, cozy bookstore",
+                "Main Target Category": [
+                    "wooden shelves filled with various books",
+                    "well-worn armchairs"
+                ],
+                "Initial Scene Attributes": "none",
+                "Main Target Layout": "wooden shelves filled with various books are neatly arranged alongside well-worn armchairs.",
+                "Scene Attribute Evolution": [
+                    "none"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a quaint, cozy bookstore?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature wooden shelves filled with various books?",
+                    "Does the scene feature well-worn armchairs?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Are the wooden shelves filled with various books neatly arranged alongside well-worn armchairs?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that are characterized by none?"
+                ],
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the quaint, cozy bookstore scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the wooden shelves filled with various books undergo abnormal deformation over time?",
+                    "Do the well-worn armchairs undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "8": [
+        {
+            "prompt_gen": "In an art gallery, a series of paintings are displayed on the walls, and the scene is bathed in soft, warm light.",
+            "prompt_gen_list_extract": [
+                "In an art gallery, a series of paintings are displayed on the walls, and the scene is bathed in soft, warm light."
+            ],
+            "element_extract": {
+                "Scene Type": "art gallery",
+                "Main Target Category": [
+                    "series of paintings"
+                ],
+                "Initial Scene Attributes": "soft, warm light",
+                "Main Target Layout": "A series of paintings are displayed on the walls.",
+                "Scene Attribute Evolution": [
+                    "soft, warm light"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in an art gallery?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a series of paintings?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by soft, warm light?"
+                ],
+                "Main Target Layout": [
+                    "Are a series of paintings displayed on the walls?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that show soft, warm light?"
+                ],
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the art gallery scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the series of paintings undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "```\nIn a large, well-lit manufacturing facility, a CNC machine stands prominently at the center, surrounded by various other machining equipment.\n```",
+            "prompt_gen_list_extract": [
+                "```\nIn a large, well-lit manufacturing facility, a CNC machine stands prominently at the center, surrounded by various other machining equipment.\n```"
+            ],
+            "element_extract": {
+                "Scene Type": "manufacturing facility",
+                "Main Target Category": [
+                    "CNC machine",
+                    "various other machining equipment"
+                ],
+                "Initial Scene Attributes": "well-lit",
+                "Main Target Layout": "a CNC machine stands prominently at the center, surrounded by various other machining equipment.",
+                "Scene Attribute Evolution": [
+                    "well-lit"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a manufacturing facility?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a CNC machine?",
+                    "Does the scene feature various other machining equipment?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being well-lit?"
+                ],
+                "Main Target Layout": [
+                    "Is the CNC machine positioned prominently at the center, surrounded by various other machining equipment?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that are well-lit?"
+                ],
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the manufacturing facility scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the CNC machine undergo abnormal deformation over time?",
+                    "Does the various other machining equipment undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "1": [
+        {
+            "prompt_gen": "```\nIn the calm, serene sea, a boat is gently floating with the horizon in the background.\n```",
+            "prompt_gen_list_extract": [
+                "```\nIn the calm, serene sea, a boat is gently floating with the horizon in the background.\n```"
+            ],
+            "element_extract": {
+                "Scene Type": "serene sea",
+                "Main Target Category": [
+                    "a boat",
+                    "horizon"
+                ],
+                "Initial Scene Attributes": "calm",
+                "Main Target Layout": "a boat is gently floating with the horizon in the background",
+                "Scene Attribute Evolution": [
+                    "calm"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place at a serene sea?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a boat?",
+                    "Does the scene feature the horizon?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being calm?"
+                ],
+                "Main Target Layout": [
+                    "Is the boat gently floating with the horizon in the background?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that are calm?"
+                ],
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the serene sea scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the boat undergo abnormal deformation over time?",
+                    "Does the horizon undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "In a snowy nighttime setting, the streetlights cast a warm, orange glow over the quiet street.",
+            "prompt_gen_list_extract": [
+                "In a snowy nighttime setting, the streetlights cast a warm, orange glow over the quiet street."
+            ],
+            "element_extract": {
+                "Scene Type": "snowy nighttime setting",
+                "Main Target Category": [],
+                "Initial Scene Attributes": "warm, orange glow",
+                "Main Target Layout": "The streetlights cast a warm, orange glow over the quiet street.",
+                "Scene Attribute Evolution": [
+                    "warm, orange glow"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a snowy nighttime setting?"
+                ],
+                "Main Target Category": [],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by a warm, orange glow?"
+                ],
+                "Main Target Layout": [
+                    "Do the streetlights cast a warm, orange glow over the quiet street?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that show a warm, orange glow?"
+                ],
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the snowy nighttime setting scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": []
+            }
+        }
+    ],
+    "7": [
+        {
+            "prompt_gen": "```\nIn a traditional martial arts dojo, the room is brightly lit with sunlight streaming through large windows. A solitary girl is standing in the center in a ready stance on the polished wooden floor.\n```",
+            "prompt_gen_list_extract": [
+                "```\nIn a traditional martial arts dojo, the room is brightly lit with sunlight streaming through large windows. A solitary girl is standing in the center in a ready stance on the polished wooden floor.\n```"
+            ],
+            "element_extract": {
+                "Scene Type": "traditional martial arts dojo",
+                "Main Target Category": [
+                    "solitary girl"
+                ],
+                "Initial Scene Attributes": "brightly lit with sunlight",
+                "Main Target Layout": "A solitary girl is standing in the center in a ready stance on the polished wooden floor.",
+                "Scene Attribute Evolution": [
+                    "brightly lit with sunlight"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a traditional martial arts dojo?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a solitary girl?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being brightly lit with sunlight?"
+                ],
+                "Main Target Layout": [
+                    "Is the solitary girl positioned in a ready stance in the center on the polished wooden floor?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that are brightly lit with sunlight?"
+                ],
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the traditional martial arts dojo scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the solitary girl undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "3": [
+        {
+            "prompt_gen": "```\nIn a backyard grill setting, the sturdy grill stands prominently in the middle, surrounded by a few outdoor chairs and tables under the bright afternoon sun.\n```",
+            "prompt_gen_list_extract": [
+                "```\nIn a backyard grill setting, the sturdy grill stands prominently in the middle, surrounded by a few outdoor chairs and tables under the bright afternoon sun.\n```"
+            ],
+            "element_extract": {
+                "Scene Type": "backyard grill setting",
+                "Main Target Category": [
+                    "sturdy grill",
+                    "outdoor chairs and tables"
+                ],
+                "Initial Scene Attributes": "bright afternoon sun",
+                "Main Target Layout": "The sturdy grill stands prominently in the middle, surrounded by a few outdoor chairs and tables.",
+                "Scene Attribute Evolution": [
+                    "bright afternoon sun"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a backyard grill setting?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a sturdy grill?",
+                    "Does the scene feature outdoor chairs and tables?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by bright afternoon sun?"
+                ],
+                "Main Target Layout": [
+                    "Is the sturdy grill positioned prominently in the middle, surrounded by a few outdoor chairs and tables?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments characterized by bright afternoon sun?"
+                ],
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the backyard grill setting scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the sturdy grill undergo abnormal deformation over time?",
+                    "Do the outdoor chairs and tables undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "10": [
+        {
+            "prompt_gen": "```\nA brightly lit studio set with a news anchor seated behind a sleek modern desk, papers neatly arranged in front of her.\n```",
+            "prompt_gen_list_extract": [
+                "```\nA brightly lit studio set with a news anchor seated behind a sleek modern desk, papers neatly arranged in front of her.\n```"
+            ],
+            "element_extract": {
+                "Scene Type": "studio set",
+                "Main Target Category": [
+                    "news anchor",
+                    "sleek modern desk"
+                ],
+                "Initial Scene Attributes": "brightly lit",
+                "Main Target Layout": "a news anchor is seated behind a sleek modern desk, with papers neatly arranged in front of her.",
+                "Scene Attribute Evolution": [
+                    "brightly lit"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a studio set?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a news anchor?",
+                    "Does the scene feature a sleek modern desk?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being brightly lit?"
+                ],
+                "Main Target Layout": [
+                    "Is the news anchor seated behind a sleek modern desk with papers neatly arranged in front of her?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that are brightly lit?"
+                ],
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the studio set scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the news anchor undergo abnormal deformation over time?",
+                    "Does the sleek modern desk undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "14": [
+        {
+            "prompt_gen": "In an underwater palace, surrounded by colorful corals and various marine life, a central staircase elegantly extends upward.",
+            "prompt_gen_list_extract": [
+                "In an underwater palace, surrounded by colorful corals and various marine life, a central staircase elegantly extends upward."
+            ],
+            "element_extract": {
+                "Scene Type": "underwater palace",
+                "Main Target Category": [
+                    "colorful corals",
+                    "various marine life",
+                    "central staircase"
+                ],
+                "Initial Scene Attributes": "underwater",
+                "Main Target Layout": "colorful corals and various marine life surround a central staircase that elegantly extends upward.",
+                "Scene Attribute Evolution": [
+                    "underwater"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in an underwater palace?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature colorful corals?",
+                    "Does the scene feature various marine life?",
+                    "Does the scene feature a central staircase?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being underwater?"
+                ],
+                "Main Target Layout": [
+                    "Are the colorful corals and various marine life surrounding a central staircase that elegantly extends upward?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that are underwater?"
+                ],
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the underwater palace scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the colorful corals undergo abnormal deformation over time?",
+                    "Does the various marine life undergo abnormal deformation over time?",
+                    "Does the central staircase undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "6": [
+        {
+            "prompt_gen": "```\nIn the interior of a brightly lit train, passengers sit along the sides while the window reveals the bustling subway station outside.\n```",
+            "prompt_gen_list_extract": [
+                "```\nIn the interior of a brightly lit train, passengers sit along the sides while the window reveals the bustling subway station outside.\n```"
+            ],
+            "element_extract": {
+                "Scene Type": "interior of a train",
+                "Main Target Category": [
+                    "passengers",
+                    "window"
+                ],
+                "Initial Scene Attributes": "brightly lit",
+                "Main Target Layout": "passengers sit along the sides while the window reveals the bustling subway station outside.",
+                "Scene Attribute Evolution": [
+                    "brightly lit"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in the interior of a train?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature passengers?",
+                    "Does the scene feature a window?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being brightly lit?"
+                ],
+                "Main Target Layout": [
+                    "Are the passengers sitting along the sides while the window reveals the bustling subway station outside?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that are brightly lit?"
+                ],
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the interior of a train scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the passengers undergo abnormal deformation over time?",
+                    "Does the window undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "16": [
+        {
+            "prompt_gen": "```\nIn an abandoned building bathed in muted light, the silhouette of a person is seen alone in the desolate space.\n```",
+            "prompt_gen_list_extract": [
+                "```\nIn an abandoned building bathed in muted light, the silhouette of a person is seen alone in the desolate space.\n```"
+            ],
+            "element_extract": {
+                "Scene Type": "abandoned building",
+                "Main Target Category": [
+                    "silhouette of a person"
+                ],
+                "Initial Scene Attributes": "muted light",
+                "Main Target Layout": "the silhouette of a person is seen alone in the desolate space.",
+                "Scene Attribute Evolution": [
+                    "muted light"
+                ],
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": null,
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in an abandoned building?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature the silhouette of a person?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by muted light?"
+                ],
+                "Main Target Layout": [
+                    "Is the silhouette of a person seen alone in the desolate space?"
+                ],
+                "Scene Attribute Evolution_0": [
+                    "Does the video contain any segments that feature muted light?"
+                ],
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": null,
+                "Main Target Action Evolution_1": null,
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the abandoned building scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the silhouette of a person undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,1209 @@
+{
+    "12": [
+        {
+            "prompt_gen": "In a sunny outdoor stairs area, a skateboarder stands at the top, preparing to make a move. Suddenly, the skateboarder pushes off and starts descending the stairs effortlessly on the skateboard.",
+            "prompt_gen_list_extract": [
+                "In a sunny outdoor stairs area, a skateboarder stands at the top, preparing to make a move.",
+                "The skateboarder pushes off and starts descending the stairs effortlessly on the skateboard."
+            ],
+            "element_extract": {
+                "Scene Type": "sunny outdoor stairs area",
+                "Main Target Category": [
+                    "skateboarder",
+                    "skateboard"
+                ],
+                "Initial Scene Attributes": "sunny outdoor",
+                "Main Target Layout": "a skateboarder stands at the top of the stairs, preparing to make a move",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": [
+                    "the skateboarder stands at the top of the stairs, preparing to make a move",
+                    "the skateboarder pushes off and starts descending the stairs effortlessly on the skateboard"
+                ],
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a sunny outdoor stairs area?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a skateboarder?",
+                    "Does the scene feature a skateboard?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being sunny and outdoor?"
+                ],
+                "Main Target Layout": [
+                    "Is the skateboarder positioned at the top of the stairs, preparing to make a move?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": [
+                    "Does the video contain any segments of the skateboarder standing at the top of the stairs, preparing to make a move?",
+                    "Does the video contain any segments of the skateboarder pushing off and descending the stairs effortlessly on the skateboard?"
+                ],
+                "Main Target Action Evolution_1": [
+                    "Does the skateboarder's action transition from standing at the top of the stairs, preparing to make a move to pushing off and starting to descend the stairs effortlessly on the skateboard over time? To judge this question, it must first be determined that the skateboarder is standing at the top of the stairs, preparing to make a move at a certain time and subsequently pushes off and starts descending the stairs on the skateboard, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the sunny outdoor stairs area scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the skateboarder undergo abnormal deformation over time?",
+                    "Does the skateboard undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "15": [
+        {
+            "prompt_gen": "On a dimly lit tabletop, a character model in green armor stands poised beside a collection of dice and miniature terrain features. Suddenly, the character model moves forward.",
+            "prompt_gen_list_extract": [
+                "On a dimly lit tabletop, a character model in green armor stands poised beside a collection of dice and miniature terrain features.",
+                "The character model moves forward."
+            ],
+            "element_extract": {
+                "Scene Type": "dimly lit tabletop",
+                "Main Target Category": [
+                    "character model",
+                    "green armor",
+                    "dice",
+                    "miniature terrain features"
+                ],
+                "Initial Scene Attributes": "dimly lit",
+                "Main Target Layout": "a character model in green armor stands poised beside a collection of dice and miniature terrain features",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": [
+                    "the character model stands poised",
+                    "the character model moves forward"
+                ],
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place on a dimly lit tabletop?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a character model?",
+                    "Does the scene feature green armor?",
+                    "Does the scene feature dice?",
+                    "Does the scene feature miniature terrain features?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being dimly lit?"
+                ],
+                "Main Target Layout": [
+                    "Is the character model in green armor positioned beside a collection of dice and miniature terrain features?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": [
+                    "Does the video contain any segments showing the character model poised?",
+                    "Does the video contain any segments where the character model moves forward?"
+                ],
+                "Main Target Action Evolution_1": [
+                    "Does the character model's action transition from standing poised to moving forward over time? To judge this question, it must first be determined that the character model is standing poised at a certain time and subsequently moves forward, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the dimly lit tabletop scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the character model undergo abnormal deformation over time?",
+                    "Does the green armor undergo abnormal deformation over time?",
+                    "Do the dice undergo abnormal deformation over time?",
+                    "Do the miniature terrain features undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "8": [
+        {
+            "prompt_gen": "On an overcast day aboard a ship, a person stands on the deck, gazing out at the sea. Suddenly, the person begins to hoist the sails.",
+            "prompt_gen_list_extract": [
+                "On an overcast day aboard a ship, a person stands on the deck, gazing out at the sea.",
+                "The person begins to hoist the sails."
+            ],
+            "element_extract": {
+                "Scene Type": "aboard a ship on an overcast day",
+                "Main Target Category": [
+                    "person",
+                    "deck",
+                    "sea"
+                ],
+                "Initial Scene Attributes": "overcast",
+                "Main Target Layout": "a person stands on the deck, gazing out at the sea",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": [
+                    "the person stands on the deck, gazing out at the sea",
+                    "the person begins to hoist the sails"
+                ],
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place aboard a ship on an overcast day?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a person?",
+                    "Does the scene feature a deck?",
+                    "Does the scene feature the sea?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being overcast?"
+                ],
+                "Main Target Layout": [
+                    "Is the person standing on the deck and gazing out at the sea?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": [
+                    "Does the video contain any segments showing the person standing on the deck and gazing out at the sea?",
+                    "Does the video contain any segments showing the person beginning to hoist the sails?"
+                ],
+                "Main Target Action Evolution_1": [
+                    "Does the person's action transition from standing on the deck gazing out at the sea to hoisting the sails over time? To judge this question, it must first be determined that the person is standing on the deck gazing out at the sea at a certain time and subsequently begins to hoist the sails, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the aboard a ship on an overcast day scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the person undergo abnormal deformation over time?",
+                    "Does the deck undergo abnormal deformation over time?",
+                    "Does the sea undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "7": [
+        {
+            "prompt_gen": "On the basketball court, a player holds the basketball. Suddenly, the player begins to dribble.",
+            "prompt_gen_list_extract": [
+                "On the basketball court, a player holds the basketball.",
+                "The player begins to dribble."
+            ],
+            "element_extract": {
+                "Scene Type": "basketball court",
+                "Main Target Category": [
+                    "player",
+                    "basketball"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": "a player holds the basketball",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": [
+                    "the player holds the basketball",
+                    "the player begins to dribble"
+                ],
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place on a basketball court?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a player?",
+                    "Does the scene feature a basketball?"
+                ],
+                "Initial Scene Attributes": null,
+                "Main Target Layout": [
+                    "Is the player holding the basketball?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": [
+                    "Does the video contain any segments showing the player holding the basketball?",
+                    "Does the video contain any segments showing the player beginning to dribble?"
+                ],
+                "Main Target Action Evolution_1": [
+                    "Does the player's action transition from holding the basketball to beginning to dribble over time? To judge this question, it must first be determined that the player is holding the basketball at a certain time and subsequently begins to dribble, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the basketball court scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the player undergo abnormal deformation over time?",
+                    "Does the basketball undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "Under a clear blue sky on the playground, a runner is running on the track. Subsequently, the runner comes to a stop.",
+            "prompt_gen_list_extract": [
+                "Under a clear blue sky on the playground, a runner is running on the track.",
+                "The runner comes to a stop."
+            ],
+            "element_extract": {
+                "Scene Type": "playground",
+                "Main Target Category": [
+                    "runner",
+                    "track"
+                ],
+                "Initial Scene Attributes": "clear blue sky",
+                "Main Target Layout": "a runner is on the track",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": [
+                    "the runner is running on the track",
+                    "the runner comes to a stop"
+                ],
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a playground?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a runner?",
+                    "Does the scene feature a track?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by a clear blue sky?"
+                ],
+                "Main Target Layout": [
+                    "Is the runner positioned on the track?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": [
+                    "Does the video contain any segments of the runner running on the track?",
+                    "Does the video contain any segments of the runner coming to a stop?"
+                ],
+                "Main Target Action Evolution_1": [
+                    "Does the runner's action transition from running on the track to coming to a stop over time? To judge this question, it must first be determined that the runner is running on the track at a certain time and subsequently comes to a stop, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the playground scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the runner undergo abnormal deformation over time?",
+                    "Does the track undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "In a brightly lit indoor pool, a swimmer is swimming. As the swimmer reaches the edge of the pool, he climbs out of the water.",
+            "prompt_gen_list_extract": [
+                "In a brightly lit indoor pool, a swimmer is swimming.",
+                "As the swimmer reaches the edge of the pool, he climbs out of the water."
+            ],
+            "element_extract": {
+                "Scene Type": "brightly lit indoor pool",
+                "Main Target Category": [
+                    "swimmer",
+                    "pool"
+                ],
+                "Initial Scene Attributes": "brightly lit",
+                "Main Target Layout": "a swimmer is in the pool",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": [
+                    "the swimmer is swimming",
+                    "the swimmer climbs out of the water"
+                ],
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a brightly lit indoor pool?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a swimmer?",
+                    "Does the scene feature a pool?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being brightly lit?"
+                ],
+                "Main Target Layout": [
+                    "Is the swimmer positioned in the pool?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": [
+                    "Does the video contain any segments of the swimmer swimming?",
+                    "Does the video contain any segments of the swimmer climbing out of the water?"
+                ],
+                "Main Target Action Evolution_1": [
+                    "Does the swimmer's action transition from swimming to climbing out of the water over time? To judge this question, it must first be determined that the swimmer is swimming at a certain time and subsequently climbs out of the water, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the brightly lit indoor pool scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the swimmer undergo abnormal deformation over time?",
+                    "Does the pool undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "1": [
+        {
+            "prompt_gen": "In the tranquil ocean brimming with coral, a sea turtle glides slowly above the coral. Subsequently, the turtle stops atop a piece of coral.",
+            "prompt_gen_list_extract": [
+                "In the tranquil ocean brimming with coral, a sea turtle glides slowly above the coral.",
+                "The turtle stops atop a piece of coral."
+            ],
+            "element_extract": {
+                "Scene Type": "tranquil ocean",
+                "Main Target Category": [
+                    "coral",
+                    "sea turtle"
+                ],
+                "Initial Scene Attributes": "tranquil, brimming with coral",
+                "Main Target Layout": "a sea turtle glides slowly above the coral",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": [
+                    "the sea turtle glides slowly",
+                    "the turtle stops atop a piece of coral"
+                ],
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a tranquil ocean?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature coral?",
+                    "Does the scene feature a sea turtle?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being tranquil and brimming with coral?"
+                ],
+                "Main Target Layout": [
+                    "Is the sea turtle positioned gliding slowly above the coral?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": [
+                    "Does the video contain any segments of the sea turtle gliding slowly?",
+                    "Does the video contain any segments of the turtle stopping atop a piece of coral?"
+                ],
+                "Main Target Action Evolution_1": [
+                    "Does the sea turtle's action transition from gliding slowly to stopping atop a piece of coral over time? To judge this question, it must first be determined that the sea turtle is gliding slowly at a certain time and subsequently stops atop a piece of coral, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the tranquil ocean scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the coral undergo abnormal deformation over time?",
+                    "Does the sea turtle undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "3": [
+        {
+            "prompt_gen": "In the sunny outdoor area of a seaside restaurant, a man sits at a table looking at the menu, with a waiter standing nearby. Subsequently, he begins to converse with the waiter.",
+            "prompt_gen_list_extract": [
+                "In the sunny outdoor area of a seaside restaurant, a man sits at a table looking at the menu, with a waiter standing nearby.",
+                "He begins to converse with the waiter."
+            ],
+            "element_extract": {
+                "Scene Type": "seaside restaurant",
+                "Main Target Category": [
+                    "man",
+                    "table",
+                    "menu",
+                    "waiter"
+                ],
+                "Initial Scene Attributes": "sunny outdoor",
+                "Main Target Layout": "a man sits at a table looking at the menu, with a waiter standing nearby",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": [
+                    "the man sits at the table looking at the menu",
+                    "the man begins to converse with the waiter"
+                ],
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a seaside restaurant?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a man?",
+                    "Does the scene feature a table?",
+                    "Does the scene feature a menu?",
+                    "Does the scene feature a waiter?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being sunny and outdoor?"
+                ],
+                "Main Target Layout": [
+                    "Is the man positioned at a table looking at the menu, with a waiter standing nearby?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": [
+                    "Does the video contain any segments of the man sitting at the table looking at the menu?",
+                    "Does the video contain any segments of the man conversing with the waiter?"
+                ],
+                "Main Target Action Evolution_1": [
+                    "Does the man's action transition from sitting at the table looking at the menu to conversing with the waiter over time? To judge this question, it must first be determined that the man is sitting at the table looking at the menu at a certain time and subsequently begins conversing with the waiter, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the seaside restaurant scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the man undergo abnormal deformation over time?",
+                    "Does the table undergo abnormal deformation over time?",
+                    "Does the menu undergo abnormal deformation over time?",
+                    "Does the waiter undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "In the dimly lit bar, a customer sits by a wooden table, holding a glass to sip the drink inside. Subsequently, the customer sets the glass down.",
+            "prompt_gen_list_extract": [
+                "In the dimly lit bar, a customer sits by a wooden table, holding a glass to sip the drink inside.",
+                "The customer sets the glass down."
+            ],
+            "element_extract": {
+                "Scene Type": "dimly lit bar",
+                "Main Target Category": [
+                    "customer",
+                    "wooden table",
+                    "glass"
+                ],
+                "Initial Scene Attributes": "dimly lit",
+                "Main Target Layout": "a customer sits by a wooden table, holding a glass",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": [
+                    "the customer holds a glass to sip the drink",
+                    "the customer sets the glass down"
+                ],
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a dimly lit bar?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a customer?",
+                    "Does the scene feature a wooden table?",
+                    "Does the scene feature a glass?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being dimly lit?"
+                ],
+                "Main Target Layout": [
+                    "Is the customer positioned by a wooden table holding a glass?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": [
+                    "Does the video contain any segments of the customer sipping a drink from a glass?",
+                    "Does the video contain any segments of the customer placing the glass down?"
+                ],
+                "Main Target Action Evolution_1": [
+                    "Does the customer's action transition from holding a glass to sip the drink to setting the glass down over time? To judge this question, it must first be determined that the customer is holding a glass to sip the drink at a certain time and subsequently sets the glass down, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the dimly lit bar scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the customer undergo abnormal deformation over time?",
+                    "Does the wooden table undergo abnormal deformation over time?",
+                    "Does the glass undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "2": [
+        {
+            "prompt_gen": "Under the soft, pink canopy of cherry blossoms, a grassy area with purple flowers stands in full bloom. A gentle breeze begins to sweep through, causing the flowers to sway gracefully.",
+            "prompt_gen_list_extract": [
+                "Under the soft, pink canopy of cherry blossoms, a grassy area with purple flowers stands in full bloom.",
+                "A gentle breeze begins to sweep through, causing the flowers to sway gracefully."
+            ],
+            "element_extract": {
+                "Scene Type": "soft, pink canopy of cherry blossoms",
+                "Main Target Category": [
+                    "grassy area",
+                    "purple flowers"
+                ],
+                "Initial Scene Attributes": "soft, pink",
+                "Main Target Layout": "a grassy area with purple flowers stands in full bloom",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": [
+                    "a grassy area with purple flowers stands in full bloom",
+                    "a gentle breeze begins to sweep through, causing the flowers to sway gracefully"
+                ],
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place under a soft, pink canopy of cherry blossoms?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a grassy area?",
+                    "Does the scene feature purple flowers?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being soft and pink?"
+                ],
+                "Main Target Layout": [
+                    "Is the grassy area with purple flowers in full bloom?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": [
+                    "Does the video contain any segments showing a grassy area with purple flowers in full bloom?",
+                    "Does the video contain any segments of a gentle breeze sweeping through, causing the flowers to sway gracefully?"
+                ],
+                "Main Target Action Evolution_1": [
+                    "Does the action transition from a grassy area with purple flowers in full bloom to a gentle breeze sweeping through and causing the flowers to sway gracefully over time? To judge this question, it must first be determined that the grassy area with purple flowers is in full bloom at a certain time and subsequently a gentle breeze sweeps through causing the flowers to sway gracefully, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the soft, pink canopy of cherry blossoms scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the grassy area undergo abnormal deformation over time?",
+                    "Do the purple flowers undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "9": [
+        {
+            "prompt_gen": "In the serene, softly lit environment of an art exhibition hall, a circular decorative item hangs motionless on the wall. Suddenly, the circular piece begins to rotate slowly.",
+            "prompt_gen_list_extract": [
+                "In the serene, softly lit environment of an art exhibition hall, a circular decorative item hangs motionless on the wall.",
+                "Suddenly, the circular piece begins to rotate slowly."
+            ],
+            "element_extract": {
+                "Scene Type": "art exhibition hall",
+                "Main Target Category": [
+                    "circular decorative item",
+                    "wall"
+                ],
+                "Initial Scene Attributes": "serene, softly lit",
+                "Main Target Layout": "a circular decorative item hangs motionless on the wall",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": [
+                    "the circular decorative item hangs motionless",
+                    "the circular decorative item begins to rotate slowly"
+                ],
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in an art exhibition hall?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a circular decorative item?",
+                    "Does the scene feature a wall?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being serene and softly lit?"
+                ],
+                "Main Target Layout": [
+                    "Is the circular decorative item positioned motionless on the wall?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": [
+                    "Does the video contain any segments where the circular decorative item remains motionless?",
+                    "Does the video contain any segments where the circular decorative item starts to rotate slowly?"
+                ],
+                "Main Target Action Evolution_1": [
+                    "Does the circular decorative item's action transition from being motionless to rotating slowly over time? To judge this question, it must first be determined that the circular decorative item is motionless at a certain time and subsequently begins to rotate slowly, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the art exhibition hall scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the circular decorative item undergo abnormal deformation over time?",
+                    "Does the wall undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "In the gentle afternoon sunlight, a person sits quietly on a bench, absorbed in reading a book. Subsequently, the person closes the book.",
+            "prompt_gen_list_extract": [
+                "In the gentle afternoon sunlight, a person sits quietly on a bench, absorbed in reading a book.",
+                "The person closes the book."
+            ],
+            "element_extract": {
+                "Scene Type": "gentle afternoon sunlight",
+                "Main Target Category": [
+                    "person",
+                    "bench",
+                    "book"
+                ],
+                "Initial Scene Attributes": "gentle afternoon sunlight",
+                "Main Target Layout": "a person sits quietly on a bench, absorbed in reading a book",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": [
+                    "the person sits quietly on a bench, absorbed in reading a book",
+                    "the person closes the book"
+                ],
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in gentle afternoon sunlight?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a person?",
+                    "Does the scene feature a bench?",
+                    "Does the scene feature a book?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by gentle afternoon sunlight?"
+                ],
+                "Main Target Layout": [
+                    "Is the person positioned quietly on a bench absorbed in reading a book?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": [
+                    "Does the video contain any segments showing the person sitting quietly on a bench absorbed in reading a book?",
+                    "Does the video contain any segments of the person closing the book?"
+                ],
+                "Main Target Action Evolution_1": [
+                    "Does the person's action transition from sitting quietly on a bench absorbed in reading a book to closing the book over time? To judge this question, it must first be determined that the person is sitting quietly on a bench absorbed in reading a book at a certain time and subsequently closes the book, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the gentle afternoon sunlight scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the person undergo abnormal deformation over time?",
+                    "Does the bench undergo abnormal deformation over time?",
+                    "Does the book undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "10": [
+        {
+            "prompt_gen": "Under the vibrant stage lights, a pair of dancers stand gracefully in the center of the dance floor. After a moment of stillness, they begin to perform a lively and intricate dance routine.",
+            "prompt_gen_list_extract": [
+                "Under the vibrant stage lights, a pair of dancers stand gracefully in the center of the dance floor.",
+                "After a moment of stillness, they begin to perform a lively and intricate dance routine."
+            ],
+            "element_extract": {
+                "Scene Type": "vibrant stage",
+                "Main Target Category": [
+                    "dancers",
+                    "dance floor"
+                ],
+                "Initial Scene Attributes": "vibrant",
+                "Main Target Layout": "a pair of dancers stand gracefully in the center of the dance floor",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": [
+                    "the dancers stand gracefully",
+                    "the dancers perform a lively and intricate dance routine"
+                ],
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place on a vibrant stage?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature dancers?",
+                    "Does the scene feature a dance floor?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being vibrant?"
+                ],
+                "Main Target Layout": [
+                    "Are the dancers positioned gracefully in the center of the dance floor?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": [
+                    "Does the video contain any segments of the dancers standing gracefully?",
+                    "Does the video contain any segments of the dancers performing a lively and intricate dance routine?"
+                ],
+                "Main Target Action Evolution_1": [
+                    "Do the dancers' actions transition from standing gracefully to performing a lively and intricate dance routine over time? To judge this question, it must first be determined that the dancers are standing gracefully at a certain time and subsequently perform a lively and intricate dance routine, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the vibrant stage scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Do the dancers undergo abnormal deformation over time?",
+                    "Does the dance floor undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "In the vibrant Ferris Wheel Plaza, the large ferris wheel stands tall and motionless against the evening sky. Suddenly, the ferris wheel begins to rotate slowly, illuminating the area with its colorful lights.",
+            "prompt_gen_list_extract": [
+                "In the vibrant Ferris Wheel Plaza, the large ferris wheel stands tall and motionless against the evening sky.",
+                "The ferris wheel begins to rotate slowly, illuminating the area with its colorful lights."
+            ],
+            "element_extract": {
+                "Scene Type": "Ferris Wheel Plaza",
+                "Main Target Category": [
+                    "ferris wheel"
+                ],
+                "Initial Scene Attributes": "vibrant",
+                "Main Target Layout": "the large ferris wheel stands tall and motionless against the evening sky",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": [
+                    "the ferris wheel stands tall and motionless",
+                    "the ferris wheel begins to rotate slowly, illuminating the area with its colorful lights"
+                ],
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in Ferris Wheel Plaza?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a ferris wheel?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being vibrant?"
+                ],
+                "Main Target Layout": [
+                    "Is the large ferris wheel positioned tall and motionless against the evening sky?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": [
+                    "Does the video contain any segments where the ferris wheel stands tall and motionless?",
+                    "Does the video contain any segments where the ferris wheel begins to rotate slowly, illuminating the area with its colorful lights?"
+                ],
+                "Main Target Action Evolution_1": [
+                    "Does the ferris wheel's action transition from standing tall and motionless to rotating slowly, illuminating the area with its colorful lights over time? To judge this question, it must first be determined that the ferris wheel is standing tall and motionless at a certain time and subsequently begins to rotate slowly, illuminating the area with its colorful lights, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the Ferris Wheel Plaza scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the ferris wheel undergo abnormal deformation over time?"
+                ]
+            }
+        },
+        {
+            "prompt_gen": "In a warmly lit music performance room, a young man sits at a piano, focusing intently on the sheet music before him. After a moment, he begins to play the piano.",
+            "prompt_gen_list_extract": [
+                "In a warmly lit music performance room, a young man sits at a piano, focusing intently on the sheet music before him.",
+                "He begins to play the piano."
+            ],
+            "element_extract": {
+                "Scene Type": "warmly lit music performance room",
+                "Main Target Category": [
+                    "young man",
+                    "piano",
+                    "sheet music"
+                ],
+                "Initial Scene Attributes": "warmly lit",
+                "Main Target Layout": "a young man sits at a piano, focusing intently on the sheet music before him",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": [
+                    "the young man sits at a piano, focusing intently on the sheet music",
+                    "the young man begins to play the piano"
+                ],
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a warmly lit music performance room?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a young man?",
+                    "Does the scene feature a piano?",
+                    "Does the scene feature sheet music?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being warmly lit?"
+                ],
+                "Main Target Layout": [
+                    "Is the young man positioned at a piano, focusing intently on the sheet music before him?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": [
+                    "Does the video contain any segments of the young man sitting at a piano, focusing intently on the sheet music?",
+                    "Does the video contain any segments of the young man beginning to play the piano?"
+                ],
+                "Main Target Action Evolution_1": [
+                    "Does the young man's action transition from sitting at a piano focusing on the sheet music to beginning to play the piano over time? To judge this question, it must first be determined that the young man is sitting at a piano focusing on the sheet music at a certain time and subsequently begins to play the piano, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the warmly lit music performance room scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the young man undergo abnormal deformation over time?",
+                    "Does the piano undergo abnormal deformation over time?",
+                    "Does the sheet music undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "5": [
+        {
+            "prompt_gen": "Under the late afternoon sun, a camper van is parked at the peaceful campground. Suddenly, the camper van's engine starts, and it begins to drive slowly towards the forest trail.",
+            "prompt_gen_list_extract": [
+                "Under the late afternoon sun, a camper van is parked at the peaceful campground.",
+                "The camper van's engine starts, and it begins to drive slowly towards the forest trail."
+            ],
+            "element_extract": {
+                "Scene Type": "peaceful campground",
+                "Main Target Category": [
+                    "camper van",
+                    "sun"
+                ],
+                "Initial Scene Attributes": "late afternoon",
+                "Main Target Layout": "a camper van is parked at the peaceful campground",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": [
+                    "the camper van is parked at the peaceful campground",
+                    "the camper van's engine starts and it begins to drive slowly towards the forest trail"
+                ],
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place at a peaceful campground?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a camper van?",
+                    "Does the scene feature the sun?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being late afternoon?"
+                ],
+                "Main Target Layout": [
+                    "Is the camper van positioned at the peaceful campground?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": [
+                    "Does the video contain any segments showing a camper van parked at the peaceful campground?",
+                    "Does the video contain any segments of the camper van's engine starting and it driving slowly towards the forest trail?"
+                ],
+                "Main Target Action Evolution_1": [
+                    "Does the camper van's action transition from being parked at the peaceful campground to driving slowly towards the forest trail over time? To judge this question, it must first be determined that the camper van is parked at the peaceful campground at a certain time and subsequently begins to drive slowly towards the forest trail, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the peaceful campground scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the camper van undergo abnormal deformation over time?",
+                    "Does the sun undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "16": [
+        {
+            "prompt_gen": "In an open outdoor military training ground under a clear sky, a soldier stands alert and attentive. Suddenly, the soldier drops to the ground.",
+            "prompt_gen_list_extract": [
+                "In an open outdoor military training ground under a clear sky, a soldier stands alert and attentive.",
+                "The soldier drops to the ground."
+            ],
+            "element_extract": {
+                "Scene Type": "open outdoor military training ground",
+                "Main Target Category": [
+                    "soldier"
+                ],
+                "Initial Scene Attributes": "clear sky",
+                "Main Target Layout": "a soldier stands alert and attentive",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": [
+                    "the soldier stands alert and attentive",
+                    "the soldier drops to the ground"
+                ],
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in an open outdoor military training ground?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a soldier?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by a clear sky?"
+                ],
+                "Main Target Layout": [
+                    "Is the soldier positioned alert and attentive?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": [
+                    "Does the video contain any segments showing the soldier standing alert and attentive?",
+                    "Does the video contain any segments of the soldier dropping to the ground?"
+                ],
+                "Main Target Action Evolution_1": [
+                    "Does the soldier's action transition from standing alert and attentive to dropping to the ground over time? To judge this question, it must first be determined that the soldier is standing alert and attentive at a certain time and subsequently drops to the ground, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the open outdoor military training ground scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the soldier undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "6": [
+        {
+            "prompt_gen": "On a calm and serene harbor, a fishing boat is docked quietly at the pier. After a moment, the boat's engine roars to life as it slowly begins to move away from the dock.",
+            "prompt_gen_list_extract": [
+                "On a calm and serene harbor, a fishing boat is docked quietly at the pier.",
+                "The boat's engine roars to life as it slowly begins to move away from the dock."
+            ],
+            "element_extract": {
+                "Scene Type": "calm and serene harbor",
+                "Main Target Category": [
+                    "fishing boat",
+                    "pier"
+                ],
+                "Initial Scene Attributes": "calm and serene",
+                "Main Target Layout": "a fishing boat is docked quietly at the pier",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": [
+                    "the fishing boat is docked quietly",
+                    "the boat's engine roars to life and it slowly begins to move away from the dock"
+                ],
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a calm and serene harbor?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a fishing boat?",
+                    "Does the scene feature a pier?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being calm and serene?"
+                ],
+                "Main Target Layout": [
+                    "Is the fishing boat docked quietly at the pier?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": [
+                    "Does the video contain any segments where the fishing boat is docked quietly?",
+                    "Does the video contain any segments where the boat's engine roars to life and it slowly begins to move away from the dock?"
+                ],
+                "Main Target Action Evolution_1": [
+                    "Does the fishing boat's action transition from being docked quietly to moving away from the dock over time? To judge this question, it must first be determined that the fishing boat is docked quietly at a certain time and subsequently begins to move away from the dock, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the calm and serene harbor scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the fishing boat undergo abnormal deformation over time?",
+                    "Does the pier undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "14": [
+        {
+            "prompt_gen": "With the sun setting in the sky, a lone figure stands at the crest of the hill, peering into the distance. Suddenly, the figure begins to descend the hill with steady steps.",
+            "prompt_gen_list_extract": [
+                "With the sun setting in the sky, a lone figure stands at the crest of the hill, peering into the distance.",
+                "The figure begins to descend the hill with steady steps."
+            ],
+            "element_extract": {
+                "Scene Type": "hill",
+                "Main Target Category": [
+                    "figure",
+                    "hill"
+                ],
+                "Initial Scene Attributes": "sun setting",
+                "Main Target Layout": "a lone figure stands at the crest of the hill, peering into the distance",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": [
+                    "the figure stands at the crest of the hill, peering into the distance",
+                    "the figure descends the hill with steady steps"
+                ],
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place on a hill?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a figure?",
+                    "Does the scene feature a hill?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by a sun setting?"
+                ],
+                "Main Target Layout": [
+                    "Is the lone figure positioned at the crest of the hill peering into the distance?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": [
+                    "Does the video contain any segments of the figure standing at the crest of the hill and peering into the distance?",
+                    "Does the video contain any segments of the figure descending the hill with steady steps?"
+                ],
+                "Main Target Action Evolution_1": [
+                    "Does the figure's action transition from standing at the crest of the hill and peering into the distance to descending the hill with steady steps over time? To judge this question, it must first be determined that the figure is standing at the crest of the hill and peering into the distance at a certain time and subsequently descends the hill with steady steps, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the hill scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the figure undergo abnormal deformation over time?",
+                    "Does the hill undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ],
+    "4": [
+        {
+            "prompt_gen": "In a brightly lit convenience store, a customer is browsing through the snack aisle. The customer then picks up a bag of chips.",
+            "prompt_gen_list_extract": [
+                "In a brightly lit convenience store, a customer is browsing through the snack aisle.",
+                "The customer picks up a bag of chips."
+            ],
+            "element_extract": {
+                "Scene Type": "brightly lit convenience store",
+                "Main Target Category": [
+                    "customer",
+                    "snack aisle",
+                    "bag of chips"
+                ],
+                "Initial Scene Attributes": "brightly lit",
+                "Main Target Layout": "a customer is browsing through the snack aisle",
+                "Scene Attribute Evolution": null,
+                "Main Target Attribute Evolution": null,
+                "Main Target Action Evolution": [
+                    "the customer is browsing through the snack aisle",
+                    "the customer picks up a bag of chips"
+                ],
+                "Interaction Evolution Between Main Targets": null
+            },
+            "auto_gen_question": {
+                "Scene Type": [
+                    "Does the scene take place in a brightly lit convenience store?"
+                ],
+                "Main Target Category": [
+                    "Does the scene feature a customer?",
+                    "Does the scene feature a snack aisle?",
+                    "Does the scene feature a bag of chips?"
+                ],
+                "Initial Scene Attributes": [
+                    "Is the scene characterized by being brightly lit?"
+                ],
+                "Main Target Layout": [
+                    "Is the customer positioned while browsing through the snack aisle?"
+                ],
+                "Scene Attribute Evolution_0": null,
+                "Scene Attribute Evolution_1": null,
+                "Main Target Attribute Evolution_0": null,
+                "Main Target Attribute Evolution_1": null,
+                "Main Target Action Evolution_0": [
+                    "Does the video contain any segments of the customer browsing through the snack aisle?",
+                    "Does the video contain any segments of the customer picking up a bag of chips?"
+                ],
+                "Main Target Action Evolution_1": [
+                    "Does the customer's action transition from browsing through the snack aisle to picking up a bag of chips over time? To judge this question, it must first be determined that the customer is browsing through the snack aisle at a certain time and subsequently picks up a bag of chips, with a clear transition process over time. If neither condition is simultaneously met, consider 'no'."
+                ],
+                "Interaction Evolution Between Main Targets_0": null,
+                "Interaction Evolution Between Main Targets_1": null,
+                "Scene Anomaly Detection": [
+                    "Does the brightly lit convenience store scene undergo abnormal deformation over time?"
+                ],
+                "Main Target Anomaly Detection": [
+                    "Does the customer undergo abnormal deformation over time?",
+                    "Does the snack aisle undergo abnormal deformation over time?",
+                    "Does the bag of chips undergo abnormal deformation over time?"
+                ]
+            }
+        }
+    ]
+}
