@@ -1,11 +1,13 @@
 # **NarrLV:** Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation Models
 
+[![](https://img.shields.io/badge/NarrLV-arXiv%20-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2507.11245)
 [![](https://img.shields.io/badge/NarrLV-Project_Page-blue?logo=googlechrome&logoColor=blue)](https://amap-ml.github.io/NarrLV-Website/)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20NarrLV-Evaluation_Results-red)](https://huggingface.co/datasets/Xiaokunfeng2022/NarrLV/tree/main)
 
 
 # 🔥 Updates
 
+*   \[7/2024\] **NarrLV** paper is available [![](https://img.shields.io/badge/NarrLV-arXiv%20-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2507.11245)!
 *   \[5/2024\] **NarrLV** evaluation code & prompt set are available!
     
 
