@@ -7,8 +7,8 @@
 
 # 🔥 Updates
 
-*   \[7/2024\] **NarrLV** paper is available [![](https://img.shields.io/badge/NarrLV-arXiv%20-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2507.11245)!
-*   \[5/2024\] **NarrLV** evaluation code & prompt set are available!
+*   \[7/2025\] **NarrLV** paper is available [![](https://img.shields.io/badge/NarrLV-arXiv%20-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2507.11245)!
+*   \[5/2025\] **NarrLV** evaluation code & prompt set are available!
     
 
 # 📣 Overview
